@@ -1,0 +1,1213 @@
+id_transaccion,id_cliente,fecha_transaccion,categoria_producto,cantidad,precio_unitario,descuento_pct,canal_venta,monto_compra,nombre,edad,ciudad,fecha_registro,categoria_favorita,ingreso_estimado
+50001,1294,2024-01-20,Moda,4,70480.46,0.15,Web,239633.56,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+50002,1024,2024-07-07,Hogar,5,9401.74,0.15,Marketplace,39957.39,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50003,1222,2024-05-31,Hogar,2,241376.52,0.05,Web,458615.39,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50004,1100,2024-02-13,Libros,1,80071.35,0.0,App,80071.35,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+50005,1112,2024-06-21,Moda,5,66575.01,0.1,App,299587.54,Vicente Rojas,52.0,Santiago,2024-10-20,Libros,514152.0
+50006,1076,2024-06-07,Deportes,2,53614.88,0.1,Web,96506.78,Camila López,44.0,Puerto Montt,2024-04-02,Deportes,721760.0
+50007,1030,2024-05-18,Hogar,3,29677.98,0.15,Web,75678.85,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+50008,1063,2024-01-04,Tecnología,4,200798.11,0.05,Web,763032.82,Diego Rodríguez,19.0,Santiago,2024-09-28,Moda,851974.0
+50009,1222,2024-07-27,Moda,3,72437.86,0.05,App,206447.9,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50010,1222,2024-08-08,Tecnología,4,88917.17,0.15,App,302318.38,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50011,1251,2024-12-06,Deportes,4,106482.32,0.2,App,340743.42,María Rojas,30.0,Valparaíso,2023-01-01,Libros,993285.0
+50012,1141,2024-04-23,Libros,3,53302.0,0.1,App,143915.4,Matías Fuentes,56.0,Temuco,2023-03-04,Hogar,777672.0
+50013,1199,2024-09-25,Libros,2,179478.01,0.1,App,323060.42,Fernanda Sepúlveda,42.0,Valparaíso,2023-08-23,Hogar,1071786.0
+50014,1183,2024-12-30,Deportes,1,192489.77,0.05,Web,182865.28,Juan Hernández,24.0,Valparaíso,2022-12-15,Tecnología,871378.0
+50015,1090,2024-09-23,Libros,5,226702.84,0.0,Marketplace,1133514.2,Diego González,60.0,Concepción,2023-08-04,Libros,805526.0
+50016,1120,2024-10-28,Tecnología,3,143479.59,0.05,App,408916.83,Catalina Rojas,40.0,Antofagasta,2022-02-15,Moda,812331.0
+50017,1114,2024-06-11,Hogar,2,180964.85,,web,307640.24,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50018,1006,2024-04-12,Tecnología,2,242531.81,0.0,App,485063.62,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+50019,1299,2024-07-30,Libros,5,16543.96,0.15,Marketplace,70311.83,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50020,1066,2024-08-24,Hogar,2,82475.71,,Marketplace,140208.71,Fernanda Soto,20.0,Antofagasta,2022-05-02,Belleza,914131.0
+50021,1295,2024-05-22,Tecnología,3,27335.56,0.2,Marketplace,65605.34,Fernanda Contreras,47.0,Valparaíso,2023-12-15,Belleza,564383.0
+50022,1215,2024-01-10,Hogar,1,65720.32,0.1,Web,59148.29,Sofía Díaz,28.0,Rancagua,2022-09-22,Libros,574547.0
+50023,1187,2024-05-15,Moda,3,144942.75,0.0,Web,434828.25,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50024,1240,2024-07-16,Deportes,5,24165.53,0.15,App,102703.5,Antonia Fuentes,60.0,Valparaíso,2022-09-24,Belleza,1130335.0
+50025,1027,2024-05-20,Moda,5,102373.76,0.0,Web,511868.8,Pedro Morales,25.0,CONCEPCIÓN,2024-08-21,Moda,618112.0
+50026,1283,2024-07-14,Libros,3,185196.63,0.15,Web,472251.41,Fernanda Martínez,59.0,Valparaíso,2023-02-22,Libros,820956.0
+50027,1052,2024-08-28,Tecnología,4,149057.42,0.15,Marketplace,506795.23,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+50028,1145,2024-03-15,Moda,3,242848.62,0.15,Web,619263.98,Juan Martínez,38.0,Puerto Montt,2023-02-21,Belleza,990452.0
+50029,1006,2024-08-01,Hogar,5,25165.52,0.1,Marketplace,113244.84,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+50030,1116,2024-08-09,Libros,1,86120.99,,App,73202.84,María Torres,36.0,CONCEPCIÓN,2023-02-03,Libros,778801.0
+50031,1161,2024-08-31,Libros,3,239187.32,0.0,Marketplace,717561.96,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50032,1040,2024-02-02,HOGAR,4,149501.15,0.2,App,478403.68,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50033,1248,2024-02-03,Tecnología,2,48654.22,0.1,App,87577.6,Sofía Díaz,40.0,Concepción,2023-06-01,Tecnología,847868.0
+50034,1234,2024-05-19,Libros,4,25857.41,0.2,App,82743.71,Juan Hernández,56.0,Temuco,2023-10-26,Moda,880253.0
+50035,1068,2024-11-09,Libros,2,84525.93,0.05,Marketplace,160599.27,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50036,1257,2024-11-20,Libros,1,68223.08,0.0,Web,68223.08,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+50037,1068,2024-10-10,Moda,3,76653.27,0.1,Web,206963.83,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50038,1047,2024-12-08,Tecnología,4,244296.23,0.0,Web,977184.92,Catalina Muñoz,57.0,Concepción,2024-01-09,Moda,835300.0
+50039,1015,2024-08-11,Belleza,5,88721.27,0.05,Web,421426.03,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+50040,1134,2024-03-23,Libros,4,207580.91,0.0,Web,830323.64,Vicente Muñoz,55.0,Antofagasta,2022-07-09,Deportes,787557.0
+50041,1072,2024-03-07,Libros,1,147722.61,0.1,Marketplace,132950.35,Sofía Díaz,62.0,Antofagasta,2022-10-21,Moda,719718.0
+50042,1127,2024-01-12,Moda,3,208805.11,0.0,App,626415.33,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+50043,1267,2024-02-03,Belleza,1,72401.37,0.1,Web,65161.23,Fernanda López,52.0,Valparaíso,2024-05-21,Hogar,1201143.0
+50044,1255,2024-07-11,Moda,1,164270.66,0.1,Web,147843.59,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50045,1072,2024-10-27,Tecnología,4,60415.88,0.05,Web,229580.34,Sofía Díaz,62.0,Antofagasta,2022-10-21,Moda,719718.0
+50046,1072,2024-07-10,Moda,3,111902.72,0.05,Marketplace,318922.75,Sofía Díaz,62.0,Antofagasta,2022-10-21,Moda,719718.0
+50047,1111,2024-03-01,Deportes,1,82495.67,0.05,Marketplace,78370.89,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50048,1007,2024-07-15,Moda,4,108010.95,0.0,Web,432043.8,Pedro Martínez,19.0,Antofagasta,2023-04-14,Tecnología,983762.0
+50049,1145,2024-09-16,Moda,5,212017.08,0.0,Marketplace,1060085.4,Juan Martínez,38.0,Puerto Montt,2023-02-21,Belleza,990452.0
+50050,1111,2024-08-16,Moda,2,167432.4,0.0,App,334864.8,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50051,1100,2024-04-08,Tecnología,1,53617.51,0.15,App,45574.88,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+50052,1194,2024-03-16,Deportes,3,148256.21,0.0,App,444768.63,Pedro Sepúlveda,30.0,Temuco,2023-03-15,Libros,652575.0
+50053,1196,2024-02-15,Hogar,4,95015.76,0.05,Marketplace,361059.89,Valentina Muñoz,47.0,Rancagua,2023-09-28,Libros,1011346.0
+50054,1209,2024-07-13,Belleza,1,81377.19,0.05,Marketplace,77308.33,María Fuentes,62.0,Antofagasta,2022-06-29,Hogar,1064666.0
+50055,1024,2024-12-15,Tecnología,2,167244.91,0.1,App,301040.84,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50056,1247,2024-12-08,Libros,2,128492.73,0.0,Web,256985.46,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+50057,1231,2024-10-22,Deportes,2,143302.04,0.0,Marketplace,286604.08,Sofía Contreras,61.0,La Serena,2022-11-02,Belleza,1100487.0
+50058,1255,2024-08-07,Tecnología,1,189463.61,0.0,App,189463.61,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50059,1078,2024-12-23,Deportes,3,133047.21,0.05,Web,379184.55,Camila Hernández,,Concepción,2024-03-17,Moda,368408.0
+50060,1027,2024-04-15,Tecnología,3,93795.34,0.0,Web,281386.02,Pedro Morales,25.0,CONCEPCIÓN,2024-08-21,Moda,618112.0
+50061,1219,2024-04-19,Belleza,3,146983.07,0.1,App,396854.29,Vicente Soto,48.0,La Serena,2022-03-06,Libros,1129704.0
+50062,1239,2024-04-15,Libros,4,109428.71,0.0,Marketplace,437714.84,Camila Sepúlveda,33.0,Puerto Montt,2024-10-23,Deportes,989563.0
+50063,1060,2024-05-07,Moda,5,207281.58,0.2,App,829126.32,Catalina Rojas,,Rancagua,2024-12-31,Hogar,549894.0
+50064,1105,2024-10-31,Libros,4,85056.59,0.0,Web,340226.36,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+50065,1292,2024-07-13,Libros,5,141977.9,0.05,Web,674395.02,Benjamín Sepúlveda,39.0,Santiago,2023-08-30,Tecnología,428255.0
+50066,1299,2024-04-02,Tecnología,5,239166.98,0.2,Web,956667.92,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50067,1054,2024-02-08,Tecnología,2,140454.14,0.15,App,238772.04,Diego Díaz,55.0,Antofagasta,2022-05-18,Deportes,747340.0
+50068,1227,2024-04-09,Hogar,4,73229.41,0.2,App,234334.11,Antonia Silva,45.0,Santiago,2024-01-07,Libros,999154.0
+50069,1043,2024-05-22,Hogar,5,78986.33,0.0,App,394931.65,Juan López,53.0,Puerto Montt,2022-08-01,Hogar,828432.0
+50070,1204,2024-03-14,Hogar,1,192105.39,0.05,Marketplace,182500.12,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+50071,1292,2024-04-28,Libros,5,46127.91,0.0,App,230639.55,Benjamín Sepúlveda,39.0,Santiago,2023-08-30,Tecnología,428255.0
+50072,1092,2024-01-06,Tecnología,5,9004.32,0.15,Web,38268.36,Camila Martínez,61.0,Puerto Montt,2024-04-17,Belleza,749609.0
+50073,1104,2024-10-16,Tecnología,5,245006.4,0.0,Web,1225032.0,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+50074,1096,2024-06-18,Belleza,4,249560.96,0.15,App,848507.26,Antonia Sepúlveda,65.0,Antofagasta,2023-09-25,Tecnología,1274773.0
+50075,1294,2024-04-09,Tecnología,4,208699.66,0.1,Web,751318.78,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+50076,1211,2024-07-16,Belleza,3,154704.94,0.0,Marketplace,464114.82,Daniela González,33.0,Temuco,2023-08-08,Deportes,753326.0
+50077,1011,2024-06-09,Hogar,4,120162.2,,App,456616.36,Pedro Contreras,29.0,Valparaíso,2023-06-08,Deportes,646982.0
+50078,1133,2024-09-26,Libros,5,222178.56,0.05,Marketplace,1055348.16,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50079,1064,2024-08-05,Moda,4,88310.09,0.05,Marketplace,335578.34,Pedro Contreras,60.0,Antofagasta,2023-08-27,Deportes,675492.0
+50080,1232,2024-05-11,Belleza,1,166312.33,0.0,App,166312.33,Javiera Hernández,47.0,Santiago,2024-11-22,Tecnología,607014.0
+50081,1236,2024-01-17,Belleza,5,149930.87,0.05,Web,712171.63,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50082,1208,2024-12-03,Tecnología,4,56836.94,0.05,App,215980.37,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+50083,1066,2024-01-20,Tecnología,1,35063.48,0.0,Web,35063.48,Fernanda Soto,20.0,Antofagasta,2022-05-02,Belleza,914131.0
+50084,1010,2024-10-10,Deportes,2,135604.98,0.0,Marketplace,271209.96,Javiera Morales,58.0,Temuco,2023-02-20,Libros,1043161.0
+50085,1155,2024-12-12,Libros,1,100341.01,0.1,Web,90306.91,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+50086,1186,2024-03-15,Deportes,3,92632.72,0.1,Marketplace,250108.34,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+50087,1197,2024-11-30,Tecnología,5,32980.88,0.05,Marketplace,156659.18,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50088,1259,2024-06-06,Moda,3,116094.44,0.05,App,330869.15,María Rodríguez,46.0,Valparaíso,2023-04-08,Deportes,1355670.0
+50089,1031,2024-09-02,Tecnología,1,121733.52,0.1,Web,109560.17,Diego Hernández,19.0,Antofagasta,2023-02-24,Belleza,1018565.0
+50090,1201,2024-11-13,Belleza,2,246825.92,0.15,Web,419604.06,Benjamín González,69.0,Temuco,2024-12-20,Moda,911853.0
+50091,1178,2024-06-22,Deportes,4,35543.56,0.0,Marketplace,142174.24,Javiera Sepúlveda,38.0,Antofagasta,2024-01-20,Moda,972526.0
+50092,1041,2024-04-25,Belleza,4,201222.35,0.1,Web,724400.46,Sofía Martínez,66.0,Temuco,2022-05-04,Tecnología,664374.0
+50093,1213,2024-12-29,Moda,5,191368.22,0.05,App,908999.04,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50094,1075,2024-05-25,Deportes,2,106471.39,0.15,App,181001.36,Daniela Soto,29.0,Antofagasta,2024-02-10,Deportes,930622.0
+50095,1123,2024-12-18,Deportes,1,208752.99,0.05,Marketplace,198315.34,Matías Silva,52.0,santiago,2022-10-12,Tecnología,879069.0
+50096,1207,2024-08-26,Libros,1,84856.45,0.0,Web,84856.45,Valentina Torres,19.0,Valparaíso,2022-09-19,Belleza,961896.0
+50097,1014,2024-09-25,Libros,2,242741.22,0.05,App,461208.32,Diego Fuentes,56.0,Puerto Montt,2022-11-19,Belleza,871419.0
+50098,1018,2024-11-22,Moda,1,82468.99,0.15,App,70098.64,Daniela Rodríguez,32.0,La Serena,2023-12-01,Moda,881616.0
+50099,1255,2024-12-09,Libros,4,125744.9,0.0,Marketplace,502979.6,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50100,1249,2024-05-21,Belleza,3,60387.88,0.2,Web,144930.91,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50101,1037,2024-08-07,Belleza,3,219584.0,0.05,Web,625814.4,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
+50102,1242,2024-06-06,Deportes,4,80090.16,0.0,Web,320360.64,Vicente González,29.0,Antofagasta,2023-11-20,Tecnología,728234.0
+50103,1057,2024-07-11,Moda,2,84140.99,0.0,Web,168281.98,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+50104,1021,2024-11-21,Libros,2,152675.82,0.1,Marketplace,274816.48,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+50105,1252,2024-11-03,Moda,2,91112.41,0.0,Web,182224.82,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+50106,1157,2024-12-05,Tecnología,5,124082.95,0.05,Marketplace,589394.01,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50107,1061,2024-04-11,Libros,1,207066.05,0.0,Web,207066.05,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50108,1234,2024-04-08,Deportes,3,75557.86,0.1,Marketplace,204006.22,Juan Hernández,56.0,Temuco,2023-10-26,Moda,880253.0
+50109,1217,2024-10-21,Belleza,2,7064.48,0.05,Marketplace,13422.51,Pedro Rodríguez,39.0,Valparaíso,2022-09-27,Moda,489906.0
+50110,1170,2024-10-11,Moda,3,129875.42,0.15,App,331182.32,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+50111,1080,2024-04-01,Hogar,5,90527.27,0.1,Web,407372.72,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+50112,1052,2024-05-07,Hogar,1,174045.94,0.1,App,156641.35,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+50113,1054,2024-03-18,Tecnología,1,96279.01,0.0,App,96279.01,Diego Díaz,55.0,Antofagasta,2022-05-18,Deportes,747340.0
+50114,1171,2024-07-19,Moda,4,134023.84,0.05,Marketplace,509290.59,Benjamín Fuentes,,Valparaíso,2024-11-01,Libros,1146286.0
+50115,1083,2024-07-08,Deportes,1,224183.76,0.2,Marketplace,179347.01,Catalina Morales,61.0,Valparaíso,2024-12-26,Moda,979353.0
+50116,1289,2024-07-10,Hogar,2,143726.15,0.05,Web,273079.68,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+50117,1068,2024-05-02,Hogar,5,165292.29,0.05,Marketplace,785138.38,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50118,1237,2024-08-25,Belleza,5,38178.27,0.0,Marketplace,190891.35,María Sepúlveda,56.0,Antofagasta,2022-01-12,Hogar,730389.0
+50119,1257,2024-09-07,Deportes,2,178779.6,0.1,App,514885.28,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+50120,1275,2024-02-10,Deportes,2,81293.62,0.1,Web,146328.52,Valentina Rodríguez,46.0,Santiago,2023-07-26,Moda,1010844.0
+50121,1241,2024-10-26,Tecnología,3,9482.83,0.0,App,28448.49,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+50122,1130,2024-10-04,Hogar,1,242971.84,0.15,App,206526.06,Catalina López,29.0,Antofagasta,2023-08-08,Deportes,886112.0
+50123,1236,2024-05-11,Tecnología,5,128698.77,0.0,Marketplace,643493.85,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50124,1111,2024-08-11,Tecnología,5,146650.4,,App,696589.4,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50125,1299,2024-08-21,Libros,3,34577.84,0.05,Marketplace,98546.84,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50126,1190,2024-07-15,Deportes,4,62014.43,0.0,App,248057.72,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+50127,1280,2024-01-26,Deportes,2,107639.7,0.1,Marketplace,193751.46,Diego Hernández,46.0,Santiago,2023-05-08,Hogar,999465.0
+50128,1052,2024-10-04,Belleza,5,184092.29,0.05,App,874438.38,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+50129,1148,2024-03-31,Belleza,2,198277.26,0.15,App,337071.34,Tomás Soto,61.0,,2024-01-18,Libros,452063.0
+50130,1006,2024-05-07,Tecnología,3,67739.26,0.05,Marketplace,193056.89,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+50131,1269,2024-08-11,Deportes,5,121838.92,0.1,Marketplace,548275.14,Javiera Hernández,37.0,,2022-02-07,Deportes,724369.0
+50132,1148,2024-08-23,Deportes,3,117551.96,0.05,Web,335023.09,Tomás Soto,61.0,,2024-01-18,Libros,452063.0
+50133,1044,2024-07-15,Tecnología,3,21258.7,0.15,Web,54209.69,Matías Hernández,60.0,Valparaíso ,2024-03-29,Libros,954839.0
+50134,1297,2024-04-29,Moda,3,72307.72,0.0,Marketplace,216923.16,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50135,1155,2024-03-27,Belleza,4,249146.95,0.05,App,946758.41,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+50136,1219,2024-09-13,Belleza,1,161790.46,0.1,Web,145611.41,Vicente Soto,48.0,La Serena,2022-03-06,Libros,1129704.0
+50137,1217,2024-03-20,Belleza,5,160218.37,0.1,App,720982.66,Pedro Rodríguez,39.0,Valparaíso,2022-09-27,Moda,489906.0
+50138,1240,2024-04-03,Deportes,2,152106.38,0.0,App,304212.76,Antonia Fuentes,60.0,Valparaíso,2022-09-24,Belleza,1130335.0
+50139,1061,2024-09-23,Libros,1,12636.98,0.05,Marketplace,12005.13,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50140,1109,2024-12-09,Deportes,4,94004.36,0.0,Marketplace,376017.44,Javiera Muñoz,39.0,La Serena,2024-10-09,Hogar,869322.0
+50141,1059,2024-05-09,Deportes,2,5116.95,0.05,App,9722.2,Vicente González,30.0,,2023-07-03,Libros,743349.0
+50142,1127,2024-01-07,HOGAR,3,56478.69,0.05,App,160964.27,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+50143,1287,2024-08-06,Moda,3,200080.22,0.0,Web,600240.66,María González,63.0,,2023-04-13,Moda,762715.0
+50144,1003,2024-05-10,Hogar,2,49894.67,0.05,Marketplace,94799.87,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+50145,1127,2024-09-29,Hogar,5,70421.73,0.05,Web,334503.22,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+50146,1108,2024-08-11,Belleza,3,52600.54,0.0,Marketplace,157801.62,Valentina Muñoz,62.0,Valparaíso,2024-03-19,Belleza,691047.0
+50147,1215,2024-04-13,Hogar,5,23111.0,0.15,App,98221.75,Sofía Díaz,28.0,Rancagua,2022-09-22,Libros,574547.0
+50148,1040,2024-01-05,Moda,3,214694.64,0.15,Web,547471.33,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50149,1197,2024-01-16,Hogar,5,114348.68,0.1,Web,514569.06,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50150,1088,2024-09-12,Hogar,5,95309.01,0.0,Web,476545.05,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+50151,1006,2024-08-26,Moda,5,170411.1,0.15,Web,724247.18,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+50152,1158,2024-10-13,Belleza,3,67151.85,0.05,App,191382.77,Vicente González,34.0,santiago,2024-06-14,Tecnología,948531.0
+50153,1037,2024-10-02,Libros,2,212103.54,0.1,Web,381786.37,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
+50154,1031,2024-08-11,Hogar,3,213334.91,0.1,Marketplace,576004.26,Diego Hernández,19.0,Antofagasta,2023-02-24,Belleza,1018565.0
+50155,1094,2024-07-24,Deportes,5,134450.73,0.0,App,672253.65,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50156,1020,2024-03-22,Tecnología,2,48049.25,0.1,Web,86488.65,María Muñoz,29.0,Puerto Montt,2023-11-22,Belleza,1407094.0
+50157,1154,2024-11-13,Libros,3,76706.79,0.05,App,218614.35,Javiera Torres,59.0,Concepción,2024-03-29,Tecnología,613803.0
+50158,1219,2024-01-13,Deportes,1,128087.49,0.1,Marketplace,115278.74,Vicente Soto,48.0,La Serena,2022-03-06,Libros,1129704.0
+50159,1139,2024-09-17,Moda,3,64064.21,0.05,Marketplace,182583.0,Sofía Contreras,52.0,Antofagasta,2022-08-09,Hogar,1156268.0
+50160,1077,2024-04-15,Deportes,3,82643.81,0.05,Web,235534.86,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50161,1154,2024-12-14,Deportes,5,182711.76,0.0,App,913558.8,Javiera Torres,59.0,Concepción,2024-03-29,Tecnología,613803.0
+50162,1188,2024-02-17,Deportes,2,195023.93,0.0,App,390047.86,Catalina Sepúlveda,63.0,La Serena,2023-08-22,Libros,685234.0
+50163,1101,2024-12-26,Moda,3,146258.27,0.15,Web,372958.59,Pedro Hernández,,Antofagasta,2024-10-03,Libros,655427.0
+50164,1269,2024-07-03,Hogar,2,159408.41,0.15,Web,270994.3,Javiera Hernández,37.0,,2022-02-07,Deportes,724369.0
+50165,1174,2024-10-16,Hogar,1,201011.59,0.05,App,190961.01,Valentina Díaz,49.0,Antofagasta,2022-10-09,Libros,623042.0
+50166,1152,2024-10-22,Tecnología,3,188972.24,0.1,Web,510225.05,Valentina Rodríguez,28.0,Temuco,2023-10-15,Libros,798818.0
+50167,1070,2024-11-21,Deportes,5,65834.83,0.0,Marketplace,329174.15,Fernanda Martínez,43.0,Valparaíso,2022-05-23,Hogar,515998.0
+50168,1220,2024-12-17,Tecnología,4,236425.87,0.05,Marketplace,898418.31,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50169,1297,2024-11-01,Moda,5,202211.85,0.1,Web,909953.32,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50170,1242,2024-11-03,Hogar,5,188690.59,0.0,App,943452.95,Vicente González,29.0,Antofagasta,2023-11-20,Tecnología,728234.0
+50171,1208,2024-01-17,Libros,1,135548.74,0.0,Web,135548.74,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+50172,1114,2024-03-27,Belleza,3,175852.37,0.05,Web,501179.25,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50173,1056,2024-02-20,Belleza,3,226697.5,0.0,Marketplace,680092.5,Benjamín Rojas,32.0,Antofagasta,2022-05-21,Moda,541550.0
+50174,1156,2024-04-23,Tecnología,1,73439.95,0.15,App,62423.96,Juan Pérez,32.0,La Serena,2022-06-28,Libros,556905.0
+50175,1094,2024-07-18,Libros,5,231258.7,0.05,Marketplace,1098478.82,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50176,1271,2024-12-20,Deportes,4,66721.73,0.05,App,253542.57,Vicente Rodríguez,24.0,Concepción,2022-08-17,Deportes,840419.0
+50177,1020,2024-11-18,Tecnología,4,185218.39,0.15,Marketplace,629742.53,María Muñoz,29.0,Puerto Montt,2023-11-22,Belleza,1407094.0
+50178,1179,2024-02-15,Libros,4,215915.1,0.05,Web,820477.38,Diego Contreras,58.0,Valparaíso,2024-03-14,Hogar,472495.0
+50179,1159,2024-06-18,Hogar,5,23989.57,0.05,App,113950.46,Benjamín Pérez,22.0,,2022-03-04,Libros,781103.0
+50180,1051,2024-09-15,Belleza,5,157829.36,0.0,App,789146.8,Fernanda Silva,66.0,Rancagua,2023-11-01,Moda,655370.0
+50181,1212,2024-12-06,Belleza,4,127954.49,0.0,App,511817.96,Daniela Soto,35.0,Antofagasta,2024-09-08,Moda,400040.0
+50182,1171,2024-07-22,Tecnología,4,197852.8,0.0,Marketplace,791411.2,Benjamín Fuentes,,Valparaíso,2024-11-01,Libros,1146286.0
+50183,1275,2024-02-18,Belleza,2,129580.52,0.15,Marketplace,220286.88,Valentina Rodríguez,46.0,Santiago,2023-07-26,Moda,1010844.0
+50184,1102,2024-05-24,Deportes,1,149041.95,0.0,App,149041.95,Sofía Muñoz,69.0,Rancagua,2022-02-17,Deportes,787734.0
+50185,1260,2024-04-26,Tecnología,5,51258.17,0.1,Marketplace,230661.76,Javiera González,20.0,Antofagasta,2022-10-19,Deportes,970295.0
+50186,1296,2024-09-18,Belleza,2,210373.72,0.0,Marketplace,420747.44,Diego Martínez,49.0,Antofagasta,2024-02-22,Libros,933572.0
+50187,1054,2024-07-11,Hogar,4,231460.49,0.05,Marketplace,879549.86,Diego Díaz,55.0,Antofagasta,2022-05-18,Deportes,747340.0
+50188,1120,2024-07-25,Deportes,1,169479.51,0.0,Web,169479.51,Catalina Rojas,40.0,Antofagasta,2022-02-15,Moda,812331.0
+50189,1246,2024-07-17,Deportes,4,208967.16,0.15,App,710488.34,Valentina Muñoz,62.0,La Serena,2024-03-02,Libros,854212.0
+50190,1280,2024-07-25,Moda,1,101969.82,0.15,App,86674.35,Diego Hernández,46.0,Santiago,2023-05-08,Hogar,999465.0
+50191,1199,2024-01-17,Deportes,3,240389.34,0.05,Web,685109.62,Fernanda Sepúlveda,42.0,Valparaíso,2023-08-23,Hogar,1071786.0
+50192,1097,2024-10-26,Moda,5,216124.07,0.0,App,1080620.35,Benjamín Pérez,63.0,Temuco,2024-11-24,Libros,763851.0
+50193,1001,2024-04-21,Tecnología,3,193402.94,0.0,Marketplace,580208.82,Diego Pérez,41.0,Puerto Montt,2023-08-28,Libros,650235.0
+50194,1067,2024-01-24,Libros,5,248152.4,0.0,Web,1240762.0,Tomás Sepúlveda,35.0,La Serena,2024-12-05,Moda,1064755.0
+50195,1251,2024-06-29,Deportes,1,240947.12,0.05,App,228899.76,María Rojas,30.0,Valparaíso,2023-01-01,Libros,993285.0
+50196,1015,2024-04-18,Hogar,2,168758.06,0.0,App,337516.12,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+50197,1093,2024-04-28,Moda,4,220164.1,0.0,App,880656.4,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50198,1279,2024-12-01,Libros,5,24230.51,0.15,Marketplace,102979.67,Catalina González,62.0,Rancagua,2022-06-25,Moda,968216.0
+50199,1059,2024-10-20,tecnologia,1,246428.8,0.15,Marketplace,209464.48,Vicente González,30.0,,2023-07-03,Libros,743349.0
+50200,1103,2024-07-13,Moda,3,206027.97,0.2,Marketplace,494467.13,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50201,1251,2024-07-25,Tecnología,2,118996.04,0.05,Marketplace,226092.48,María Rojas,30.0,Valparaíso,2023-01-01,Libros,993285.0
+50202,1079,2024-08-16,Deportes,1,100211.75,0.05,App,95201.16,Antonia Díaz,41.0,La Serena,2024-11-18,Libros,1195827.0
+50203,1026,2024-05-31,Deportes,2,86646.75,0.15,Web,147299.48,Fernanda Silva,33.0,Rancagua,2024-12-10,Belleza,961675.0
+50204,1145,2024-05-01,Deportes,1,87202.11,0.2,Marketplace,69761.69,Juan Martínez,38.0,Puerto Montt,2023-02-21,Belleza,990452.0
+50205,1157,2024-10-02,Belleza,4,212566.2,0.2,App,680211.84,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50206,1133,2024-12-21,Hogar,5,97894.73,0.2,Web,391578.92,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50207,1146,2024-03-12,Moda,5,150244.97,0.15,App,638541.12,Valentina Rojas,55.0,Valparaíso,2022-09-10,Moda,995262.0
+50208,1081,2024-09-20,Belleza,4,55023.75,0.0,Web,220095.0,Camila Sepúlveda,27.0,Temuco,2024-07-31,Deportes,931968.0
+50209,1211,2024-12-17,Moda,3,120741.23,0.15,Web,307890.14,Daniela González,33.0,Temuco,2023-08-08,Deportes,753326.0
+50210,1181,2024-07-10,Deportes,1,161585.95,0.0,Marketplace,161585.95,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+50211,1210,2024-02-08,Moda,5,143887.71,0.05,App,683466.62,Catalina Muñoz,20.0,Rancagua,2023-05-28,Moda,541942.0
+50212,1211,2024-08-16,Hogar,1,196722.07,0.1,Marketplace,177049.86,Daniela González,33.0,Temuco,2023-08-08,Deportes,753326.0
+50213,1161,2024-02-28,Deportes,4,177654.11,0.05,App,675085.62,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50214,1082,2024-06-03,Moda,3,113272.11,0.15,App,288843.88,Camila López,55.0,La Serena,2023-01-10,Libros,591306.0
+50215,1299,2024-12-21,Moda,1,17216.61,0.0,Web,17216.61,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50216,1116,2024-03-25,Moda,1,143630.39,0.05,App,136448.87,María Torres,36.0,CONCEPCIÓN,2023-02-03,Libros,778801.0
+50217,1074,2024-12-15,Libros,2,56364.37,0.0,Web,112728.74,Sofía Torres,64.0,Santiago,2024-11-29,Moda,1020788.0
+50218,1044,2024-10-31,Libros,5,38825.18,0.2,App,155300.72,Matías Hernández,60.0,Valparaíso ,2024-03-29,Libros,954839.0
+50219,1164,2024-05-09,Moda,4,885251.55,0.0,Marketplace,5665609.92,Tomás Sepúlveda,69.0,Santiago,2023-08-31,Deportes,578384.0
+50220,1125,2024-02-17,Libros,3,222904.47,0.05,Marketplace,635277.74,Tomás Pérez,31.0,Santiago,2024-10-06,Tecnología,1312885.0
+50221,1014,2024-12-21,Tecnología,4,71385.34,0.0,Marketplace,285541.36,Diego Fuentes,56.0,Puerto Montt,2022-11-19,Belleza,871419.0
+50222,1112,2024-10-13,Belleza,4,220859.13,0.05,Web,839264.69,Vicente Rojas,52.0,Santiago,2024-10-20,Libros,514152.0
+50223,1298,2024-11-09,Deportes,1,141040.19,0.15,App,119884.16,Camila Díaz,39.0,Valparaíso,2023-11-27,Tecnología,924876.0
+50224,1132,2024-08-01,Hogar,4,201889.01,0.15,Marketplace,686422.63,Antonia Pérez,56.0,Puerto Montt,2022-11-18,Tecnología,1042131.0
+50225,1298,2024-03-04,Tecnología,4,112934.08,0.1,Web,406562.69,Camila Díaz,39.0,Valparaíso,2023-11-27,Tecnología,924876.0
+50226,1093,2024-01-17,Moda,5,106225.28,0.15,App,451457.44,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50227,1297,2024-10-24,Deportes,1,123688.04,0.05,Web,117503.64,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50228,1149,2024-12-28,Deportes,5,45254.74,0.05,Marketplace,214960.02,Tomás Torres,26.0,Santiago,2024-05-07,Belleza,808063.0
+50229,1008,2024-11-09,Moda,2,186826.3,0.05,App,354969.97,Sofía González,23.0,Temuco,2024-12-31,Tecnología,645729.0
+50230,1279,2024-02-13,Tecnología,1,94902.64,0.1,Marketplace,85412.38,Catalina González,62.0,Rancagua,2022-06-25,Moda,968216.0
+50231,1023,2024-12-07,Deportes,5,130363.38,0.05,App,619226.06,Valentina Díaz,53.0,santiago,2023-05-06,Libros,382581.0
+50232,1263,2024-07-06,Libros,1,12432.79,0.0,App,12432.79,Matías López,52.0,Puerto Montt,2024-10-02,Deportes,954251.0
+50233,1296,2024-12-24,Deportes,3,38925.8,0.0,App,116777.4,Diego Martínez,49.0,Antofagasta,2024-02-22,Libros,933572.0
+50234,1288,2024-03-09,Deportes,3,136297.98,0.1,App,368004.55,Valentina Rojas,,Antofagasta,2022-06-11,Moda,826286.0
+50235,1084,2024-08-10,Tecnología,5,230923.45,0.15,App,981424.66,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50236,1213,2024-02-03,Hogar,2,83576.14,0.05,App,158794.67,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50237,1016,2024-10-08,Tecnología,4,105624.22,0.1,Web,380247.19,Tomás Sepúlveda,52.0,Puerto Montt,2022-01-23,Deportes,760815.0
+50238,1192,2024-10-26,Libros,2,177904.88,0.0,App,355809.76,Benjamín Fuentes,64.0,Rancagua,2023-08-14,Deportes,300000.0
+50239,1220,2024-09-11,Hogar,4,212484.88,0.0,Marketplace,849939.52,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50240,1079,2024-12-09,Deportes,2,103689.2,0.15,Marketplace,176271.64,Antonia Díaz,41.0,La Serena,2024-11-18,Libros,1195827.0
+50241,1267,2024-10-22,Belleza,2,186837.75,0.2,App,478304.64,Fernanda López,52.0,Valparaíso,2024-05-21,Hogar,1201143.0
+50242,1297,2024-12-04,Belleza,5,200957.8,0.05,App,954549.55,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50243,1273,2024-08-20,Tecnología,1,201224.76,0.2,App,160979.81,Juan Torres,18.0,Puerto Montt,2022-11-14,Deportes,1161524.0
+50244,1206,2024-09-09,Deportes,5,242268.34,0.1,Marketplace,1090207.53,Pedro Torres,26.0,Santiago,2024-11-23,Tecnología,683208.0
+50245,1028,2024-07-12,Hogar,1,155924.06,0.15,App,132535.45,Benjamín Silva,40.0,Valparaíso,2024-02-02,Belleza,749816.0
+50246,1190,2024-12-07,Tecnología,2,15533.28,0.15,Marketplace,26406.58,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+50247,1186,2024-09-10,Belleza,5,47107.86,0.05,Marketplace,223762.34,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+50248,1159,2024-03-09,Tecnología,4,23571.26,0.05,Marketplace,89570.79,Benjamín Pérez,22.0,,2022-03-04,Libros,781103.0
+50249,1155,2024-11-24,Libros,5,45585.3,0.2,Web,182341.2,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+50250,1013,2024-04-09,Libros,1,186009.96,0.05,Web,176709.46,Daniela Muñoz,35.0,Temuco,2024-01-27,Belleza,824775.0
+50251,1062,2024-12-20,Moda,2,227098.64,0.0,App,454197.28,Javiera Soto,22.0,Concepción,2022-08-08,Moda,1019489.0
+50252,1297,2024-01-17,Belleza,2,20114.45,0.0,App,40228.9,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50253,1056,2024-06-29,Tecnología,3,47150.9,0.05,Marketplace,134380.06,Benjamín Rojas,32.0,Antofagasta,2022-05-21,Moda,541550.0
+50254,1247,2024-06-06,Moda,5,6185.96,0.0,Web,30929.8,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+50255,1180,2024-08-26,Moda,4,16176.94,0.15,App,55001.6,Pedro Martínez,57.0,Temuco,2022-03-27,Tecnología,1278579.0
+50256,1136,2024-07-08,Deportes,5,197463.26,0.2,App,789853.04,Daniela Muñoz,29.0,Puerto Montt,2024-04-22,Libros,781192.0
+50257,1262,2024-05-25,Moda,1,170189.69,0.15,Web,144661.24,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+50258,1132,2024-04-30,Libros,4,206456.62,0.0,Web,825826.48,Antonia Pérez,56.0,Puerto Montt,2022-11-18,Tecnología,1042131.0
+50259,1215,2024-06-18,Deportes,3,246204.79,0.2,Marketplace,590891.5,Sofía Díaz,28.0,Rancagua,2022-09-22,Libros,574547.0
+50260,1097,2024-11-23,Hogar,3,139905.15,0.05,App,398729.68,Benjamín Pérez,63.0,Temuco,2024-11-24,Libros,763851.0
+50261,1208,2024-11-08,Moda,3,99831.02,0.0,Web,299493.06,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+50262,1209,2024-04-02,Libros,4,113874.59,0.0,Marketplace,455498.36,María Fuentes,62.0,Antofagasta,2022-06-29,Hogar,1064666.0
+50263,1157,2024-12-12,Libros,2,107978.7,0.15,App,183563.79,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50264,1286,2024-09-25,Deportes,5,13436.08,0.0,Web,67180.4,Camila Soto,35.0,Antofagasta,2023-01-02,Deportes,1119277.0
+50265,1206,2024-06-25,Libros,5,235635.61,0.1,App,1060360.24,Pedro Torres,26.0,Santiago,2024-11-23,Tecnología,683208.0
+50266,1148,2024-02-17,Libros,5,234891.04,0.05,Web,1115732.44,Tomás Soto,61.0,,2024-01-18,Libros,452063.0
+50267,1151,2024-05-31,Belleza,1,79883.92,0.0,App,79883.92,Valentina Muñoz,28.0,Puerto Montt,2022-06-04,Deportes,413372.0
+50268,1002,2024-03-28,Libros,2,67180.78,0.05,App,127643.48,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+50269,1241,2024-01-07,Tecnología,2,20155.56,0.1,Marketplace,36280.01,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+50270,1018,2024-03-05,Tecnología,3,181251.48,0.0,App,543754.44,Daniela Rodríguez,32.0,La Serena,2023-12-01,Moda,881616.0
+50271,1276,2024-03-25,Tecnología,4,240564.65,0.05,App,914145.67,Daniela Silva,18.0,Santiago,2024-02-24,Deportes,1246470.0
+50272,1053,2024-04-06,Belleza,5,129976.09,0.05,Marketplace,617386.43,Fernanda Torres,29.0,Antofagasta,2024-10-24,Deportes,910291.0
+50273,1162,2024-07-27,Libros,1,19262.99,0.2,App,15410.39,Tomás Pérez,68.0,Concepción,2023-10-13,Libros,719868.0
+50274,1197,2024-07-29,Moda,5,223315.12,0.1,App,1004918.04,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50275,1243,2024-04-16,Tecnología,1,206732.57,0.1,App,186059.31,Pedro Torres,20.0,,2023-01-30,Libros,732359.0
+50276,1099,2024-08-17,Hogar,5,158189.9,0.0,App,790949.5,Catalina González,57.0,Puerto Montt,2022-08-13,Deportes,862764.0
+50277,1166,2024-11-19,Moda,5,104049.99,0.15,Marketplace,442212.46,Tomás Díaz,41.0,La Serena,2022-07-15,Hogar,861933.0
+50278,1299,2024-07-01,Moda,4,107329.49,0.0,Marketplace,429317.96,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50279,1228,2024-02-29,Tecnología,3,233342.06,0.0,Web,700026.18,Matías Martínez,26.0,Valparaíso,2024-02-23,tecnologia,944883.0
+50280,1014,2024-01-12,Hogar,3,153072.41,0.1,Web,413295.51,Diego Fuentes,56.0,Puerto Montt,2022-11-19,Belleza,871419.0
+50281,1034,2024-08-06,Libros,3,107058.78,0.0,Web,321176.34,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50282,1118,2024-08-03,Libros,5,128104.75,0.1,Web,576471.38,Valentina Martínez,52.0,Antofagasta,2024-08-30,Moda,1020658.0
+50283,1160,2024-10-18,Tecnología,4,197064.39,0.0,Marketplace,788257.56,Benjamín Hernández,26.0,Santiago,2024-07-10,Libros,962824.0
+50284,1097,2024-02-07,Moda,3,199326.42,0.0,Marketplace,597979.26,Benjamín Pérez,63.0,Temuco,2024-11-24,Libros,763851.0
+50285,1297,2024-01-07,Hogar,3,187807.72,0.05,Marketplace,535252.0,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50286,1114,2024-05-23,Tecnología,3,57244.95,0.05,App,163148.11,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50287,1181,2024-11-10,Tecnología,1,102761.07,0.0,Web,102761.07,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+50288,1080,2024-12-04,Moda,5,147869.56,0.05,App,702380.41,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+50289,1098,2024-04-04,Libros,4,127689.5,0.05,Marketplace,485220.1,Juan Hernández,19.0,Concepción,2022-08-11,Tecnología,978514.0
+50290,1094,2024-06-11,Libros,3,88867.47,0.05,Web,253272.29,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50291,1180,2024-09-08,Deportes,5,18306.87,0.1,App,82380.91,Pedro Martínez,57.0,Temuco,2022-03-27,Tecnología,1278579.0
+50292,1121,2024-10-12,Moda,3,174860.74,0.15,Marketplace,445894.89,Vicente Pérez,48.0,Santiago,2023-03-07,Tecnología,518143.0
+50293,1251,2024-08-25,Deportes,2,166554.6,0.0,Marketplace,333109.2,María Rojas,30.0,Valparaíso,2023-01-01,Libros,993285.0
+50294,1220,2024-05-29,Deportes,1,195843.5,0.1,Marketplace,176259.15,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50295,1204,2024-08-16,Moda,2,226761.14,0.0,App,453522.28,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+50296,1231,2024-02-29,Libros,2,7867.25,0.0,App,15734.5,Sofía Contreras,61.0,La Serena,2022-11-02,Belleza,1100487.0
+50297,1091,2024-05-15,Hogar,2,86014.92,0.05,Web,163428.35,Catalina Soto,37.0,Temuco,2024-11-09,Libros,371346.0
+50298,1004,2024-11-02,Belleza,2,109903.26,0.2,App,175845.22,Antonia López,44.0,Antofagasta,2023-01-26,Deportes,765369.0
+50299,1153,2024-03-21,Libros,5,179908.41,0.2,App,719633.64,María López,22.0,Antofagasta,2022-09-28,Hogar,845337.0
+50300,1252,2024-06-04,Tecnología,1,110267.13,0.15,Web,93727.06,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+50301,1093,2024-09-05,Moda,3,127308.65,0.05,Web,362829.65,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50302,1045,2024-02-17,Tecnología,1,148351.58,0.0,App,148351.58,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+50303,1220,2024-05-20,Belleza,3,61813.89,0.2,App,148353.34,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50304,1099,2024-10-25,Tecnología,5,22205.03,0.05,Web,105473.89,Catalina González,57.0,Puerto Montt,2022-08-13,Deportes,862764.0
+50305,1249,2024-06-08,Tecnología,5,99656.53,0.1,Marketplace,448454.38,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50306,1015,2024-12-25,Moda,1,249434.4,0.0,Marketplace,249434.4,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+50307,1247,2024-01-22,Tecnología,2,242339.47,0.05,Web,460444.99,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+50308,1199,2024-10-01,Libros,1,64873.3,0.05,App,61629.64,Fernanda Sepúlveda,42.0,Valparaíso,2023-08-23,Hogar,1071786.0
+50309,1128,2024-12-30,Libros,5,96443.42,0.05,Web,458106.24,María Soto,26.0,Valparaíso,2023-06-03,Deportes,983237.0
+50310,1228,2024-06-05,Moda,4,60392.92,0.15,Marketplace,205335.93,Matías Martínez,26.0,Valparaíso,2024-02-23,tecnologia,944883.0
+50311,1105,2024-05-01,Hogar,5,24063.72,0.0,App,120318.6,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+50312,1278,2024-04-08,Moda,2,13782.05,0.05,Marketplace,26185.89,Matías Hernández,62.0,Concepción,2024-12-27,Belleza,1412123.0
+50313,1262,2024-11-03,Libros,2,62812.25,0.15,App,106780.82,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+50314,1043,2024-01-23,Deportes,5,15521.84,0.15,Web,65967.82,Juan López,53.0,Puerto Montt,2022-08-01,Hogar,828432.0
+50315,1053,2024-02-20,Libros,1,241188.57,0.0,Web,241188.57,Fernanda Torres,29.0,Antofagasta,2024-10-24,Deportes,910291.0
+50316,1141,2024-06-17,Deportes,1,133861.25,0.1,App,120475.12,Matías Fuentes,56.0,Temuco,2023-03-04,Hogar,777672.0
+50317,1048,2024-06-21,Moda,4,178151.83,0.0,App,712607.32,Camila Hernández,40.0,Puerto Montt,2023-08-30,Hogar,999166.0
+50318,1101,2024-11-11,Hogar,3,54145.05,0.05,Web,154313.39,Pedro Hernández,,Antofagasta,2024-10-03,Libros,655427.0
+50319,1192,2024-11-02,Tecnología,5,227467.11,0.05,App,1080468.77,Benjamín Fuentes,64.0,Rancagua,2023-08-14,Deportes,300000.0
+50320,1221,2024-01-28,Moda,5,1041857.05,0.0,Marketplace,8334856.4,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50321,1114,2024-02-06,Libros,4,145871.27,0.2,App,466788.06,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50322,1285,2024-08-04,Libros,1,186381.25,0.0,App,186381.25,Pedro Díaz,63.0,Puerto Montt,2022-07-21,Deportes,547488.0
+50323,1173,2024-06-02,Deportes,4,15435.15,0.1,Marketplace ,55566.54,Juan Rojas,67.0,Concepción,2024-06-14,Hogar,844909.0
+50324,1124,2024-06-10,Moda,2,142682.9,0.0,App,285365.8,Benjamín López,46.0,Rancagua,2023-11-07,Libros,661684.0
+50325,1093,2024-12-02,Moda,5,173823.19,0.05,Marketplace,825660.15,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50326,1224,2024-10-29,Tecnología,1,226409.91,0.0,Web,226409.91,Juan Hernández,62.0,Puerto Montt,2023-04-23,Deportes,1018051.0
+50327,1169,2024-07-04,Hogar,2,48176.93,0.0,App,96353.86,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50328,1018,2024-08-21,Deportes,1,168259.56,0.0,Marketplace,168259.56,Daniela Rodríguez,32.0,La Serena,2023-12-01,Moda,881616.0
+50329,1236,2024-07-29,Deportes,4,198857.6,0.1,App,715887.36,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50330,1054,2024-07-22,Deportes,2,185184.41,0.0,App,370368.82,Diego Díaz,55.0,Antofagasta,2022-05-18,Deportes,747340.0
+50331,1027,2024-06-04,Deportes,1,89847.92,0.05,Marketplace,85355.52,Pedro Morales,25.0,CONCEPCIÓN,2024-08-21,Moda,618112.0
+50332,1170,2024-10-13,Libros,4,235511.09,0.2,Marketplace,753635.49,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+50333,1115,2024-08-16,Deportes,2,133987.94,0.0,App,267975.88,Valentina Hernández,35.0,Temuco,2024-10-06,Hogar,819816.0
+50334,1288,2024-06-05,Hogar,4,195178.15,0.2,Web,624570.08,Valentina Rojas,,Antofagasta,2022-06-11,Moda,826286.0
+50335,1072,2024-02-08,Belleza,5,131920.92,0.0,App,659604.6,Sofía Díaz,62.0,Antofagasta,2022-10-21,Moda,719718.0
+50336,1223,2024-01-29,Tecnología,3,81438.84,0.0,App,244316.52,Sofía Rojas,66.0,Valparaíso,2024-05-03,Belleza,384170.0
+50337,1257,2024-11-15,Deportes,4,112969.86,0.0,App,451879.44,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+50338,1175,2024-11-10,Hogar,5,83621.76,0.0,App,418108.8,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50339,1111,2024-10-15,Deportes,3,141851.54,0.05,Web,404276.89,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50340,1055,2024-01-18,Hogar,1,54337.99,0.05,Web,51621.09,Antonia Contreras,66.0,Concepción,2023-02-15,Deportes,1143175.0
+50341,1294,2024-06-18,Libros,2,121996.72,0.05,Web,231793.77,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+50342,1246,2024-11-08,Hogar,3,29091.16,0.0,App,87273.48,Valentina Muñoz,62.0,La Serena,2024-03-02,Libros,854212.0
+50343,1213,2024-11-02,Tecnología,5,143543.9,0.0,App,717719.5,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50344,1261,2024-05-22,Moda,4,218169.95,0.0,Web,872679.8,Diego Pérez,27.0,La Serena,2023-03-22,Tecnología,889303.0
+50345,1103,2024-08-12,Deportes,2,156795.72,0.0,Web,313591.44,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50346,1133,2024-02-06,Deportes,2,118965.21,0.15,Marketplace,202240.86,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50347,1279,2024-05-05,Hogar,2,247744.32,0.05,Web,470714.21,Catalina González,62.0,Rancagua,2022-06-25,Moda,968216.0
+50348,1220,2024-04-15,Libros,4,185880.16,0.1,Web,669168.58,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50349,1133,2024-01-04,Hogar,3,28667.46,0.0,Web,86002.38,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50350,1008,2024-01-27,Tecnología,1,247269.86,0.0,Web,247269.86,Sofía González,23.0,Temuco,2024-12-31,Tecnología,645729.0
+50351,1270,2024-01-09,Tecnología,1,197375.61,0.1,Marketplace,177638.05,Benjamín López,42.0,Rancagua,2023-06-16,Moda,479034.0
+50352,1169,2024-01-31,Hogar,3,172304.54,0.1,App,465222.26,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50353,1168,2024-08-29,Belleza,3,132696.57,0.0,Web,398089.71,Benjamín Muñoz,36.0,Antofagasta,2024-11-07,Moda,636805.0
+50354,1079,2024-04-14,Belleza,3,178109.76,0.2,Web,427463.42,Antonia Díaz,41.0,La Serena,2024-11-18,Libros,1195827.0
+50355,1213,2024-04-12,Hogar,4,78800.23,0.15,App,267920.78,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50356,1114,2024-09-14,Deportes,1,162154.23,0.05,App,154046.52,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50357,1106,2024-06-19,Libros,3,226254.59,0.05,Web,644825.58,Sofía Morales,25.0,Antofagasta,2023-11-26,Belleza,825222.0
+50358,1002,2024-02-13,Belleza,2,163043.49,0.05,Marketplace,309782.63,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+50359,1181,2024-09-03,Belleza,1,185063.61,0.1,Web,166557.25,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+50360,1254,2024-12-28,Tecnología,3,119108.23,0.0,App,357324.69,Daniela Pérez,,Antofagasta,2022-03-07,Belleza,933244.0
+50361,1228,2024-02-02,Hogar,3,198796.9,0.15,Web,506932.1,Matías Martínez,26.0,Valparaíso,2024-02-23,tecnologia,944883.0
+50362,1214,2024-08-05,Hogar,3,61780.94,0.2,Web,148274.26,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+50363,1045,2024-09-28,Libros,1,210706.96,0.1,App,189636.26,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+50364,1295,2024-09-27,Deportes,2,116655.22,0.0,App,233310.44,Fernanda Contreras,47.0,Valparaíso,2023-12-15,Belleza,564383.0
+50365,1138,2024-03-04,Moda,4,110517.85,0.0,Marketplace,442071.4,Benjamín Torres,36.0,La Serena,2024-08-03,Belleza,1015709.0
+50366,1145,2024-11-08,Hogar,2,158265.74,0.2,Web,253225.18,Juan Martínez,38.0,Puerto Montt,2023-02-21,Belleza,990452.0
+50367,1133,2024-01-03,Deportes,1,192915.38,0.05,App,183269.61,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50368,1057,2024-02-15,Tecnología,1,66748.46,0.05,Marketplace,63411.04,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+50369,1040,2024-08-03,Tecnología,3,42052.09,,Web,113540.64,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50370,1013,2024-01-17,Libros,4,19033.87,0.15,App,64715.16,Daniela Muñoz,35.0,Temuco,2024-01-27,Belleza,824775.0
+50371,1039,2024-10-12,Moda,2,189194.54,0.05,Marketplace,359469.63,Camila López,55.0,Concepción,2022-05-15,Libros,938781.0
+50372,1075,2024-09-01,Deportes,2,60792.31,0.0,Web,121584.62,Daniela Soto,29.0,Antofagasta,2024-02-10,Deportes,930622.0
+50373,1024,2024-07-06,Moda,3,67875.14,0.0,Marketplace,203625.42,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50374,1049,2024-01-25,Tecnología,3,55290.49,0.15,Web,140990.75,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+50375,1276,2024-07-16,Tecnología,1,46419.99,0.0,App,46419.99,Daniela Silva,18.0,Santiago,2024-02-24,Deportes,1246470.0
+50376,1255,2024-10-08,Tecnología,1,105562.43,0.2,Web,84449.94,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50377,1223,2024-06-22,Deportes,4,113202.19,0.15,App,384887.45,Sofía Rojas,66.0,Valparaíso,2024-05-03,Belleza,384170.0
+50378,1089,2024-11-18,Libros,4,139254.22,0.05,App,529166.04,Fernanda González,64.0,Puerto Montt,2022-04-06,Moda,511983.0
+50379,1265,2024-10-20,Tecnología,3,91347.82,0.0,App,274043.46,Tomás González,64.0,Temuco,2023-06-15,Hogar,684846.0
+50380,1127,2024-12-30,Deportes,3,173831.71,0.0,Web,521495.13,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+50381,1262,2024-01-23,Deportes,5,130064.96,0.05,Marketplace,617808.56,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+50382,1140,2024-01-19,Hogar,5,183950.02,0.0,Web,919750.1,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+50383,1263,2024-07-25,Moda,3,173839.47,,App,443290.65,Matías López,52.0,Puerto Montt,2024-10-02,Deportes,954251.0
+50384,1286,2024-05-25,Deportes,5,148849.15,0.1,Marketplace,669821.18,Camila Soto,35.0,Antofagasta,2023-01-02,Deportes,1119277.0
+50385,1273,2024-05-27,Libros,4,121763.18,0.1,Marketplace,438347.45,Juan Torres,18.0,Puerto Montt,2022-11-14,Deportes,1161524.0
+50386,1211,2024-04-01,Deportes,1,162599.79,0.0,App,162599.79,Daniela González,33.0,Temuco,2023-08-08,Deportes,753326.0
+50387,1034,2024-06-04,Deportes,3,140489.23,0.0,Marketplace,421467.69,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50388,1046,2024-04-17,Deportes,3,86144.42,0.1,Web,232589.93,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50389,1007,2024-03-10,Moda,5,56923.23,0.1,Marketplace,256154.54,Pedro Martínez,19.0,Antofagasta,2023-04-14,Tecnología,983762.0
+50390,1210,2024-02-24,Hogar,5,96058.57,0.2,App,384234.28,Catalina Muñoz,20.0,Rancagua,2023-05-28,Moda,541942.0
+50391,1068,2024-01-15,Deportes,1,111682.49,0.0,Marketplace,111682.49,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50392,1094,2024-10-01,Moda,1,116563.69,0.0,Web,116563.69,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50393,1195,2024-04-06,Belleza,2,12967.11,0.2,App,20747.38,Javiera Fuentes,59.0,Valparaíso,2024-07-30,Moda,1247554.0
+50394,1080,2024-05-04,Moda,4,239714.08,0.2,Marketplace,767085.06,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+50395,1083,2024-09-16,Hogar,2,170345.44,0.1,Web,306621.79,Catalina Morales,61.0,Valparaíso,2024-12-26,Moda,979353.0
+50396,1270,2024-04-14,Libros,2,62219.13,0.05,Web,118216.35,Benjamín López,42.0,Rancagua,2023-06-16,Moda,479034.0
+50397,1219,2024-07-01,Libros,5,87709.27,0.05,Web,416619.03,Vicente Soto,48.0,La Serena,2022-03-06,Libros,1129704.0
+50398,1129,2024-11-22,Belleza,4,196060.61,0.1,Web,705818.2,Javiera Contreras,53.0,Puerto Montt,2023-02-20,Hogar,562333.0
+50399,1238,2024-12-26,Moda,1,154111.5,0.1,App,138700.35,Valentina Fuentes,,Rancagua,2022-08-01,Belleza,714407.0
+50400,1094,2024-08-04,Moda,5,176855.68,0.1,Web,795850.56,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50401,1264,2024-06-20,Tecnología,2,44972.51,0.15,App,76453.27,Benjamín Pérez,23.0,Valparaíso,2023-05-21,Libros,438078.0
+50402,1098,2024-01-16,Belleza,3,162745.15,0.0,App,488235.45,Juan Hernández,19.0,Concepción,2022-08-11,Tecnología,978514.0
+50403,1221,2024-07-22,Belleza,3,23856.93,0.15,Marketplace,60835.17,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50404,1249,2024-05-27,Tecnología,1,196175.09,0.2,Marketplace,156940.07,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50405,1242,2024-12-10,Libros,4,195997.27,0.05,Web,744789.63,Vicente González,29.0,Antofagasta,2023-11-20,Tecnología,728234.0
+50406,1175,2024-04-09,Tecnología,1,126719.55,0.15,Web,107711.62,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50407,1213,2024-10-03,Tecnología,2,106805.07,0.1,Marketplace,192249.13,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50408,1255,2024-04-09,Hogar,1,243283.5,0.0,App,243283.5,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50409,1103,2024-01-13,Deportes,2,162914.88,0.05,Marketplace,309538.27,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50410,1202,2024-11-30,Hogar,1,23176.67,0.05,Web,22017.84,Antonia Morales,60.0,Concepción,2022-02-02,Belleza,756005.0
+50411,1189,2024-09-13,Libros,3,174969.89,0.0,App,524909.67,Sofía Muñoz,23.0,Antofagasta,2022-04-04,Belleza,953691.0
+50412,1300,2024-08-02,Tecnología,1,46635.85,0.0,Marketplace,46635.85,Antonia Silva,40.0,Santiago,2023-01-19,Moda,1039059.0
+50413,1114,2024-05-30,Moda,3,232487.25,0.05,App,662588.66,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50414,1064,2024-05-06,Belleza,4,72499.87,0.05,App,275499.51,Pedro Contreras,60.0,Antofagasta,2023-08-27,Deportes,675492.0
+50415,1179,2024-06-05,Tecnología,3,56978.94,0.1,Web,153843.14,Diego Contreras,58.0,Valparaíso,2024-03-14,Hogar,472495.0
+50416,1047,2024-12-22,Hogar,1,60826.99,0.05,App,57785.64,Catalina Muñoz,57.0,Concepción,2024-01-09,Moda,835300.0
+50417,1057,2024-11-11,Moda,2,175708.9,,Marketplace,316276.02,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+50418,1001,2024-02-25,tecnologia,4,169640.18,0.0,Marketplace,678560.72,Diego Pérez,41.0,Puerto Montt,2023-08-28,Libros,650235.0
+50419,1018,2024-09-27,Deportes,2,132290.54,0.0,Web,264581.08,Daniela Rodríguez,32.0,La Serena,2023-12-01,Moda,881616.0
+50420,1049,2024-06-21,Deportes,5,23559.48,0.05,App,111907.53,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+50421,1208,2024-10-31,Libros,1,230891.98,0.15,Marketplace,196258.18,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+50422,1005,2024-08-19,Tecnología,1,16342.72,0.0,Web,16342.72,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+50423,1084,2024-05-24,Tecnología,3,20391.2,0.2,Web,48938.88,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50424,1286,2024-11-05,Hogar,1,70194.15,0.1,App,63174.73,Camila Soto,35.0,Antofagasta,2023-01-02,Deportes,1119277.0
+50425,1216,2024-10-03,Hogar,3,77817.44,0.0,Web,233452.32,Antonia López,61.0,Concepción,2024-12-31,Deportes,754897.0
+50426,1069,2024-11-14,Libros,5,104645.52,0.1,Marketplace,470904.84,Sofía Díaz,65.0,Puerto Montt,2024-02-16,Tecnología,1253198.0
+50427,1103,2024-07-11,Moda,4,77221.71,0.0,App,308886.84,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50428,1262,2024-11-21,Libros,3,31602.08,0.1,Marketplace,85325.62,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+50429,1138,2024-05-18,Moda,3,9536.34,0.15,Web,24317.67,Benjamín Torres,36.0,La Serena,2024-08-03,Belleza,1015709.0
+50430,1104,2024-09-30,Hogar,1,233464.55,0.05,Web,221791.32,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+50431,1126,2024-09-30,Deportes,4,72046.44,0.1,Web,259367.18,Antonia Muñoz,22.0,Antofagasta,2023-01-11,Belleza,764214.0
+50432,1009,2024-07-22,Tecnología,4,40953.82,0.0,Marketplace,163815.28,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+50433,1118,2024-11-24,Tecnología,4,238203.59,0.0,Marketplace,952814.36,Valentina Martínez,52.0,Antofagasta,2024-08-30,Moda,1020658.0
+50434,1187,2024-04-07,Libros,3,176838.95,0.0,Web,530516.85,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50435,1294,2024-11-30,Hogar,4,15025.45,0.05,Web,57096.71,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+50436,1191,2024-12-19,Deportes,2,110848.03,0.05,App,210611.26,Sofía Díaz,35.0,Antofagasta,2022-05-04,Moda,612677.0
+50437,1020,2024-12-22,Belleza,1,150762.98,0.2,App,120610.38,María Muñoz,29.0,Puerto Montt,2023-11-22,Belleza,1407094.0
+50438,1010,2024-01-19,Moda,4,117263.91,0.05,Marketplace,445602.86,Javiera Morales,58.0,Temuco,2023-02-20,Libros,1043161.0
+50439,1153,2024-07-22,Libros,1,213524.22,0.1,App,192171.8,María López,22.0,Antofagasta,2022-09-28,Hogar,845337.0
+50440,1103,2024-07-22,Tecnología,3,246969.64,0.0,Marketplace,740908.92,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50441,1291,2024-10-09,Moda,2,199142.04,0.0,Web,398284.08,Diego Fuentes,44.0,Santiago,2022-11-29,Moda,643662.0
+50442,1299,2024-09-01,Tecnología,4,164923.13,0.0,App,659692.52,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50443,1100,2024-07-30,Hogar,3,219181.15,0.05,Web,624666.28,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+50444,1278,2024-12-30,Moda,1,135828.59,0.0,App,135828.59,Matías Hernández,62.0,Concepción,2024-12-27,Belleza,1412123.0
+50445,1239,2024-12-02,Deportes,4,231011.6,0.1,Web,831641.76,Camila Sepúlveda,33.0,Puerto Montt,2024-10-23,Deportes,989563.0
+50446,1232,2024-04-04,Deportes,3,177465.9,0.0,Web,532397.7,Javiera Hernández,47.0,Santiago,2024-11-22,Tecnología,607014.0
+50447,1253,2024-03-11,Deportes,1,244272.2,0.15,App,207631.37,Tomás Morales,59.0,Santiago,2024-01-19,Moda,793757.0
+50448,1289,2024-10-18,Moda,5,68083.37,0.05,App,323396.01,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+50449,1300,2024-05-10,Moda,5,129792.96,0.05,Marketplace,616516.56,Antonia Silva,40.0,Santiago,2023-01-19,Moda,1039059.0
+50450,1036,2024-03-03,Belleza,1,64774.11,0.15,Web,55057.99,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+50451,1012,2024-08-09,Belleza,4,160665.92,0.1,Web,578397.31,Tomás Pérez,31.0,Temuco,2024-11-03,Libros,300000.0
+50452,1197,2024-07-02,Deportes,2,75608.95,0.1,Web,136096.11,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50453,1035,2024-12-18,Moda,4,82159.52,0.0,Web,328638.08,Valentina Rodríguez,63.0,Rancagua,2024-02-20,Hogar,1011285.0
+50454,1152,2024-04-03,Libros,3,154847.85,0.1,App,418089.2,Valentina Rodríguez,28.0,Temuco,2023-10-15,Libros,798818.0
+50455,1289,2024-04-11,Hogar,2,155876.04,0.15,App,264989.27,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+50456,1283,2024-05-27,Belleza,1,71764.97,0.05,Web,68176.72,Fernanda Martínez,59.0,Valparaíso,2023-02-22,Libros,820956.0
+50457,1051,2024-09-12,Libros,4,24244.02,0.05,App,92127.28,Fernanda Silva,66.0,Rancagua,2023-11-01,Moda,655370.0
+50458,1225,2024-01-21,Tecnología,4,131323.89,0.05,Web,499030.78,Antonia Morales,66.0,Rancagua,2022-05-22,Tecnología,845833.0
+50459,1025,2024-05-22,Moda,1,94750.43,0.0,Marketplace,94750.43,Antonia Fuentes,18.0,Santiago,2023-05-09,Hogar,1100862.0
+50460,1061,2024-08-03,Belleza,2,247099.04,0.05,Marketplace,469488.18,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50461,1212,2024-11-04,Moda,4,221846.01,0.15,Marketplace,754276.43,Daniela Soto,35.0,Antofagasta,2024-09-08,Moda,400040.0
+50462,1041,2024-08-04,Hogar,5,245707.29,0.05,Marketplace,1167109.63,Sofía Martínez,66.0,Temuco,2022-05-04,Tecnología,664374.0
+50463,1157,2024-12-29,Tecnología,4,32501.56,0.05,App,123505.93,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50464,1035,2024-07-25,Moda,1,229749.97,0.1,Marketplace,206774.97,Valentina Rodríguez,63.0,Rancagua,2024-02-20,Hogar,1011285.0
+50465,1178,2024-01-07,Hogar,3,97817.92,0.0,Marketplace,293453.76,Javiera Sepúlveda,38.0,Antofagasta,2024-01-20,Moda,972526.0
+50466,1050,2024-10-25,Tecnología,4,125978.7,0.05,App,478719.06,Fernanda Pérez,45.0,,2024-08-28,Belleza,1330547.0
+50467,1032,2024-05-10,Belleza,2,171802.8,0.15,Marketplace,292064.76,Diego Hernández,61.0,Concepción,2022-01-16,Hogar,979216.0
+50468,1063,2024-11-08,Moda,2,5362.86,0.15,App,9116.86,Diego Rodríguez,19.0,Santiago,2024-09-28,Moda,851974.0
+50469,1083,2024-04-09,Hogar,2,163508.66,0.1,Marketplace,294315.59,Catalina Morales,61.0,Valparaíso,2024-12-26,Moda,979353.0
+50470,1223,2024-12-24,Hogar,3,223178.53,0.0,App,669535.59,Sofía Rojas,66.0,Valparaíso,2024-05-03,Belleza,384170.0
+50471,1134,2024-03-14,Deportes,3,128556.42,0.0,Marketplace,385669.26,Vicente Muñoz,55.0,Antofagasta,2022-07-09,Deportes,787557.0
+50472,1175,2024-07-31,Deportes,4,154773.17,0.0,Web,619092.68,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50473,1023,2024-09-18,Hogar,5,171519.03,0.05,App,814715.39,Valentina Díaz,53.0,santiago,2023-05-06,Libros,382581.0
+50474,1169,2024-08-23,Hogar,4,39107.67,0.1,Marketplace,140787.61,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50475,1016,2024-03-28,Moda,2,17249.27,0.0,App,34498.54,Tomás Sepúlveda,52.0,Puerto Montt,2022-01-23,Deportes,760815.0
+50476,1138,2024-07-15,Belleza,2,59625.01,0.0,Web,119250.02,Benjamín Torres,36.0,La Serena,2024-08-03,Belleza,1015709.0
+50477,1063,2024-03-20,Belleza,1,54324.63,0.05,App,51608.4,Diego Rodríguez,19.0,Santiago,2024-09-28,Moda,851974.0
+50478,1065,2024-12-22,Belleza,4,164250.65,0.2,App,525602.08,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50479,1095,2024-02-23,Libros,1,194039.84,0.0,Marketplace,194039.84,Diego López,66.0,Santiago,2022-06-02,Belleza,1229317.0
+50480,1244,2024-05-24,Tecnología,1,131827.3,0.05,Marketplace,125235.93,Antonia Fuentes,64.0,Temuco,2023-09-16,Deportes,955858.0
+50481,1073,2024-11-11,Libros,5,228627.75,0.05,Web,1085981.81,Javiera Díaz,69.0,Temuco,2024-10-02,Hogar,881579.0
+50482,1017,2024-11-13,Moda,4,107564.94,0.0,App,430259.76,Camila Silva,,Santiago,2022-02-10,Belleza,1129934.0
+50483,1030,2024-08-28,Libros,4,231798.91,0.2,Web,741756.51,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+50484,1218,2024-04-05,Libros,2,37622.82,0.05,Web,71483.36,Pedro Fuentes,46.0,Valparaíso,2022-12-18,Deportes,998991.0
+50485,1197,2024-06-19,Libros,1,167374.06,0.15,App,142267.95,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50486,1019,2024-05-02,Moda,5,243056.92,0.0,Marketplace ,1215284.6,Daniela Rojas,57.0,Puerto Montt,2023-06-29,HOGAR,300000.0
+50487,1249,2024-12-17,Tecnología,2,48478.19,,App,87260.74,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50488,1220,2024-06-14,Moda,4,141378.93,0.15,Marketplace,480688.36,Antonia Pérez,54.0,Puerto Montt,2024-08-17,Moda,528664.0
+50489,1261,2024-07-23,Tecnología,5,179804.88,0.1,Marketplace,809121.96,Diego Pérez,27.0,La Serena,2023-03-22,Tecnología,889303.0
+50490,1037,2024-12-18,Libros,2,161436.36,0.0,App,322872.72,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
+50491,1089,2024-12-03,Moda,4,145567.99,0.0,App,582271.96,Fernanda González,64.0,Puerto Montt,2022-04-06,Moda,511983.0
+50492,1269,2024-08-26,Libros,1,114051.27,0.0,Marketplace,114051.27,Javiera Hernández,37.0,,2022-02-07,Deportes,724369.0
+50493,1029,2024-02-01,Belleza,3,147701.31,0.05,Web,420948.73,María Rojas,48.0,La Serena,2023-04-13,Moda,979401.0
+50494,1045,2024-02-21,Deportes,2,17270.14,0.0,Marketplace,34540.28,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+50495,1252,2024-05-02,Libros,4,223455.76,0.0,Web,893823.04,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+50496,1005,2024-10-13,Belleza,5,253722.6,0.05,Web,1928291.76,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+50497,1221,2024-01-25,Moda,4,40344.02,0.0,Web,161376.08,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50498,1114,2024-01-14,Belleza,3,207974.18,0.0,Web,623922.54,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50499,1077,2024-06-16,Deportes,1,122410.73,0.1,App,110169.66,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50500,1295,2024-08-13,Hogar,3,160722.86,0.15,Web,409843.29,Fernanda Contreras,47.0,Valparaíso,2023-12-15,Belleza,564383.0
+50501,1039,2024-12-29,Moda,1,234742.23,0.05,App,223005.12,Camila López,55.0,Concepción,2022-05-15,Libros,938781.0
+50502,1139,2024-11-10,Belleza,1,58368.59,0.1,Marketplace,52531.73,Sofía Contreras,52.0,Antofagasta,2022-08-09,Hogar,1156268.0
+50503,1190,2024-06-20,Deportes,4,204701.42,0.15,Marketplace,695984.83,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+50504,1071,2024-04-04,Moda,2,74766.35,0.05,App,142056.06,Daniela Rodríguez,34.0,Valparaíso,2022-04-23,Deportes,851911.0
+50505,1088,2024-04-18,Moda,5,7491.9,0.15,App,31840.58,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+50506,1198,2024-03-06,Deportes,4,69795.06,0.1,App,251262.22,Vicente Soto,51.0,Antofagasta,2023-01-30,Deportes,756587.0
+50507,1100,2024-02-20,Tecnología,3,9909.11,0.1,Marketplace,26754.6,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+50508,1060,2024-01-21,Deportes,3,234496.91,0.0,Marketplace,703490.73,Catalina Rojas,,Rancagua,2024-12-31,Hogar,549894.0
+50509,1045,2024-03-10,Tecnología,1,222855.18,0.1,App,200569.66,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+50510,1249,2024-08-06,Libros,5,154952.79,0.15,App,658549.36,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50511,1012,2024-03-08,Belleza,5,155405.82,0.0,Web,777029.1,Tomás Pérez,31.0,Temuco,2024-11-03,Libros,300000.0
+50512,1298,2024-08-07,Tecnología,4,35272.9,0.2,Web,112873.28,Camila Díaz,39.0,Valparaíso,2023-11-27,Tecnología,924876.0
+50513,1171,2024-07-11,Libros,5,167395.58,0.05,Web,795129.0,Benjamín Fuentes,,Valparaíso,2024-11-01,Libros,1146286.0
+50514,1175,2024-04-19,Belleza,5,13150.1,0.15,Web,55887.92,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50515,1105,2024-09-01,Moda,2,112489.16,0.1,Marketplace,202480.49,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+50516,1214,2024-01-31,Belleza,4,73690.78,0.05,Web,280024.96,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+50517,1217,2024-11-11,Libros,3,15833.99,0.0,App,47501.97,Pedro Rodríguez,39.0,Valparaíso,2022-09-27,Moda,489906.0
+50518,1128,2024-01-11,Deportes,5,40579.79,0.1,App,182609.06,María Soto,26.0,Valparaíso,2023-06-03,Deportes,983237.0
+50519,1194,2024-06-11,Libros,3,68054.87,0.2,Web,163331.69,Pedro Sepúlveda,30.0,Temuco,2023-03-15,Libros,652575.0
+50520,1203,2024-04-04,Moda,4,175000.8,0.0,Marketplace,700003.2,Antonia Soto,28.0,Temuco,2023-08-22,Moda,459837.0
+50521,1275,2024-01-28,Tecnología,1,150505.27,0.1,Marketplace,135454.74,Valentina Rodríguez,46.0,Santiago,2023-07-26,Moda,1010844.0
+50522,1049,2024-04-23,Belleza,2,130551.4,0.05,Web,248047.66,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+50523,1196,2024-05-15,Hogar,5,183638.22,0.05,App,872281.54,Valentina Muñoz,47.0,Rancagua,2023-09-28,Libros,1011346.0
+50524,1195,2024-11-14,Hogar,5,18988.6,0.0,App,94943.0,Javiera Fuentes,59.0,Valparaíso,2024-07-30,Moda,1247554.0
+50525,1005,2024-10-12,Deportes,2,181848.25,0.1,Marketplace,327326.85,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+50526,1047,2024-08-01,Tecnología,2,215783.59,0.15,App,366832.1,Catalina Muñoz,57.0,Concepción,2024-01-09,Moda,835300.0
+50527,1274,2024-12-25,Hogar,4,157351.71,0.1,App,566466.16,Diego Hernández,24.0,Concepción,2022-02-15,Libros,646707.0
+50528,1255,2024-09-16,Hogar,1,20026.68,0.05,Web,19025.35,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50529,1001,2024-12-26,Hogar,5,47922.14,0.1,Web,215649.63,Diego Pérez,41.0,Puerto Montt,2023-08-28,Libros,650235.0
+50530,1065,2024-05-07,Tecnología,1,130372.04,0.2,Web,104297.63,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50531,1184,2024-05-13,Tecnología,1,152388.17,0.15,Web,129529.94,Fernanda Rojas,47.0,La Serena,2023-07-01,Moda,754003.0
+50532,1182,2024-03-06,Tecnología,3,224405.01,0.15,App,572232.78,Camila Fuentes,20.0,Valparaíso,2023-01-21,Belleza,920565.0
+50533,1006,2024-03-28,Moda,4,97624.92,0.1,App,351449.71,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+50534,1195,2024-09-03,Belleza,5,216541.25,0.1,App,974435.62,Javiera Fuentes,59.0,Valparaíso,2024-07-30,Moda,1247554.0
+50535,1084,2024-03-20,Moda,5,65438.03,0.0,Web,327190.15,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50536,1284,2024-09-03,Libros,5,177503.16,0.05,App,843140.01,Tomás Sepúlveda,27.0,Concepción,2023-03-22,Hogar,1218965.0
+50537,1226,2024-01-03,Libros,4,114545.01,0.15,App,389453.03,Valentina Muñoz,36.0,Santiago,2023-05-08,Moda,721566.0
+50538,1093,2024-04-06,Deportes,1,239541.15,0.0,Marketplace,239541.15,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50539,1229,2024-05-24,Moda,1,183575.66,0.0,Marketplace,183575.66,María González,25.0,Concepción,2024-09-02,Belleza,794542.0
+50540,1009,2024-05-18,Tecnología,2,95427.13,0.0,Web,190854.26,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+50541,1099,2024-08-27,Hogar,5,232654.3,0.2,App,930617.2,Catalina González,57.0,Puerto Montt,2022-08-13,Deportes,862764.0
+50542,1179,2024-09-01,Tecnología,2,59271.57,0.05,App,112615.98,Diego Contreras,58.0,Valparaíso,2024-03-14,Hogar,472495.0
+50543,1253,2024-04-18,Hogar,3,7136.81,0.1,Marketplace,19269.39,Tomás Morales,59.0,Santiago,2024-01-19,Moda,793757.0
+50544,1117,2024-08-29,Hogar,1,182101.09,0.0,Marketplace,182101.09,Benjamín Rodríguez,20.0,Rancagua,2023-11-10,Deportes,573014.0
+50545,1033,2024-10-07,Deportes,2,39624.35,0.1,Marketplace,71323.83,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+50546,1061,2024-06-07,Moda,3,74571.83,0.0,Marketplace,223715.49,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50547,1125,2024-05-02,Belleza,1,96402.98,0.05,Marketplace,91582.83,Tomás Pérez,31.0,Santiago,2024-10-06,Tecnología,1312885.0
+50548,1057,2024-06-06,Moda,2,190183.26,,App,342329.87,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+50549,1121,2024-06-09,Moda,2,147063.34,0.15,Marketplace,250007.68,Vicente Pérez,48.0,Santiago,2023-03-07,Tecnología,518143.0
+50550,1255,2024-06-10,Moda,3,164760.26,0.0,APP,494280.78,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50551,1065,2024-02-13,Libros,4,15729.76,0.05,Web,59773.09,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50552,1038,2024-11-06,Moda,4,52056.17,0.15,Web,176990.98,Camila Fuentes,66.0,Santiago,2023-09-20,Hogar,780254.0
+50553,1224,2024-03-21,Belleza,5,231354.05,0.05,App,1098931.74,Juan Hernández,62.0,Puerto Montt,2023-04-23,Deportes,1018051.0
+50554,1134,2024-07-11,Belleza,3,30184.69,0.05,Web,86026.37,Vicente Muñoz,55.0,Antofagasta,2022-07-09,Deportes,787557.0
+50555,1113,2024-01-07,Libros,4,103684.25,0.05,Web,394000.15,Matías Martínez,21.0,La Serena,2022-08-02,Tecnología,965100.0
+50556,1049,2024-01-20,Belleza,4,203775.74,0.2,App,652082.37,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+50557,1254,2024-02-29,Deportes,3,240081.57,0.0,App,720244.71,Daniela Pérez,,Antofagasta,2022-03-07,Belleza,933244.0
+50558,1003,2024-01-31,Tecnología,5,157680.27,0.0,App,788401.35,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+50559,1297,2024-07-19,Tecnología,2,180846.38,0.0,App,361692.76,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50560,1187,2024-11-03,Moda,3,105073.2,0.1,Web,283697.64,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50561,1125,2024-01-03,Belleza,5,100873.88,0.1,Marketplace,453932.46,Tomás Pérez,31.0,Santiago,2024-10-06,Tecnología,1312885.0
+50562,1079,2024-05-08,Moda,5,168698.19,0.1,Marketplace,759141.86,Antonia Díaz,41.0,La Serena,2024-11-18,Libros,1195827.0
+50563,1232,2024-06-10,Moda,3,207954.94,0.05,Marketplace,592671.58,Javiera Hernández,47.0,Santiago,2024-11-22,Tecnología,607014.0
+50564,1031,2024-03-23,Tecnología,4,229455.46,0.15,Web,780148.56,Diego Hernández,19.0,Antofagasta,2023-02-24,Belleza,1018565.0
+50565,1187,2024-06-06,Tecnología,4,52969.51,0.0,App,211878.04,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50566,1061,2024-07-26,Moda,4,102763.86,0.05,Marketplace,390502.67,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50567,1271,2024-09-22,Tecnología,3,8910.53,0.1,Marketplace,24058.43,Vicente Rodríguez,24.0,Concepción,2022-08-17,Deportes,840419.0
+50568,1040,2024-05-12,Hogar,1,95261.82,0.2,Web,76209.46,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50569,1113,2024-09-23,Tecnología,4,187043.83,0.15,APP,635949.02,Matías Martínez,21.0,La Serena,2022-08-02,Tecnología,965100.0
+50570,1229,2024-02-01,Libros,2,14915.55,0.05,Web,28339.54,María González,25.0,Concepción,2024-09-02,Belleza,794542.0
+50571,1277,2024-05-25,Belleza,5,85361.4,0.05,Marketplace,405466.65,Javiera Rodríguez,24.0,CONCEPCIÓN,2022-06-28,Belleza,649648.0
+50572,1050,2024-02-13,Hogar,3,42245.8,0.15,Web,107726.79,Fernanda Pérez,45.0,,2024-08-28,Belleza,1330547.0
+50573,1003,2024-07-18,Hogar,5,191596.64,0.15,Web,814285.72,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+50574,1098,2024-05-03,Hogar,4,38180.89,0.2,Web,122178.85,Juan Hernández,19.0,Concepción,2022-08-11,Tecnología,978514.0
+50575,1288,2024-04-10,Belleza,1,198053.89,0.05,Web,188151.2,Valentina Rojas,,Antofagasta,2022-06-11,Moda,826286.0
+50576,1008,2024-05-21,Moda,2,8044.86,0.05,Marketplace,15285.23,Sofía González,23.0,Temuco,2024-12-31,Tecnología,645729.0
+50577,1073,2024-02-26,Moda,2,227853.42,0.15,Web,387350.81,Javiera Díaz,69.0,Temuco,2024-10-02,Hogar,881579.0
+50578,1184,2024-04-01,Libros,2,163411.67,0.05,Marketplace,310482.17,Fernanda Rojas,47.0,La Serena,2023-07-01,Moda,754003.0
+50579,1094,2024-08-20,Deportes,5,29903.39,0.05,App,142041.1,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50580,1147,2024-05-27,Belleza,1,53926.72,0.05,Marketplace,51230.38,Tomás Silva,41.0,Puerto Montt,2024-07-10,Tecnología,579874.0
+50581,1169,2024-08-13,Belleza,2,137490.12,0.05,Web,261231.23,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50582,1075,2024-05-04,Moda,4,141818.58,0.0,App,567274.32,Daniela Soto,29.0,Antofagasta,2024-02-10,Deportes,930622.0
+50583,1163,2024-11-13,Belleza,3,176785.45,0.1,Marketplace,477320.72,Benjamín Sepúlveda,36.0,Puerto Montt,2024-06-21,Hogar,1112969.0
+50584,1147,2024-06-01,Belleza,5,22436.44,0.05,Web,106573.09,Tomás Silva,41.0,Puerto Montt,2024-07-10,Tecnología,579874.0
+50585,1111,2024-10-02,Deportes,1,160820.08,0.2,Web,128656.06,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50586,1032,2024-06-18,Belleza,1,243226.0,0.05,App,231064.7,Diego Hernández,61.0,Concepción,2022-01-16,Hogar,979216.0
+50587,1010,2024-08-12,Moda,2,55395.78,0.1,Marketplace,99712.4,Javiera Morales,58.0,Temuco,2023-02-20,Libros,1043161.0
+50588,1161,2024-07-26,Belleza,3,183717.39,0.15,Marketplace,468479.34,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50589,1092,2024-07-03,Tecnología,2,18104.53,0.0,Marketplace,36209.06,Camila Martínez,61.0,Puerto Montt,2024-04-17,Belleza,749609.0
+50590,1216,2024-09-03,Hogar,1,38848.02,0.0,Marketplace,38848.02,Antonia López,61.0,Concepción,2024-12-31,Deportes,754897.0
+50591,1080,2024-08-18,Deportes,3,93787.0,0.15,Marketplace,239156.85,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+50592,1282,2024-04-24,Deportes,3,129947.86,0.0,Web,389843.58,María López,60.0,Valparaíso,2022-11-27,Libros,605233.0
+50593,1167,2024-08-16,Belleza,1,17812.04,0.0,Web,17812.04,Benjamín Soto,,Concepción,2023-02-12,Hogar,1094302.0
+50594,1027,2024-05-29,Belleza,2,206280.36,0.05,Web,391932.68,Pedro Morales,25.0,CONCEPCIÓN,2024-08-21,Moda,618112.0
+50595,1249,2024-09-22,Hogar,4,249807.76,0.1,App,899307.94,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50596,1157,2024-11-20,Libros,4,232188.33,0.15,Web,789440.32,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50597,1015,2024-10-06,Deportes,5,229100.15,0.0,Web,1145500.75,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+50598,1181,2024-02-20,Deportes,3,197428.77,0.05,Web,562671.99,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+50599,1257,2024-09-14,Libros,3,139982.61,0.2,Web,335958.26,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+50600,1140,2024-04-13,Libros,5,36811.18,0.1,Web,165650.31,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+50601,1123,2024-10-13,Moda,1,155787.54,0.0,App,155787.54,Matías Silva,52.0,santiago,2022-10-12,Tecnología,879069.0
+50602,1041,2024-08-25,Hogar,2,172489.37,0.05,Marketplace,327729.8,Sofía Martínez,66.0,Temuco,2022-05-04,Tecnología,664374.0
+50603,1228,2024-12-27,Moda,4,15138.02,0.0,Marketplace,60552.08,Matías Martínez,26.0,Valparaíso,2024-02-23,tecnologia,944883.0
+50604,1073,2024-03-02,Belleza,1,57085.25,0.2,Marketplace,45668.2,Javiera Díaz,69.0,Temuco,2024-10-02,Hogar,881579.0
+50605,1162,2024-05-20,HOGAR,3,154866.23,0.05,Marketplace,441368.76,Tomás Pérez,68.0,Concepción,2023-10-13,Libros,719868.0
+50606,1113,2024-06-24,Hogar,2,105396.67,0.15,Web,179174.34,Matías Martínez,21.0,La Serena,2022-08-02,Tecnología,965100.0
+50607,1133,2024-06-23,Belleza,4,187964.65,0.1,Web,676672.74,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50608,1262,2024-12-14,Libros,4,98898.14,0.05,App,375812.93,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+50609,1052,2024-12-03,Tecnología,4,155732.22,0.1,App,560635.99,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+50610,1065,2024-04-03,Libros,5,135781.96,0.0,App,678909.8,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50611,1114,2024-07-12,Hogar,3,42574.7,0.1,App,114951.69,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+50612,1281,2024-06-05,Libros,5,15678.51,0.05,Web,74472.92,Sofía Morales,35.0,Valparaíso,2022-11-17,Libros,972902.0
+50613,1026,2024-04-10,Deportes,2,90351.21,0.15,Web,153597.06,Fernanda Silva,33.0,Rancagua,2024-12-10,Belleza,961675.0
+50614,1252,2024-09-25,Libros,2,226624.13,0.0,Marketplace,453248.26,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+50615,1137,2024-07-13,Hogar,2,168265.26,,App,336530.52,Javiera Sepúlveda,35.0,Valparaíso ,2023-08-25,Moda,592799.0
+50616,1175,2024-09-02,Tecnología,4,200514.86,0.0,Web,802059.44,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50617,1024,2024-02-28,Tecnología,1,151080.52,0.05,App,143526.49,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50618,1169,2024-08-30,Hogar,2,13597.1,0.15,App,23115.07,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50619,1278,2024-06-07,Tecnología,2,211593.87,0.05,App,402028.35,Matías Hernández,62.0,Concepción,2024-12-27,Belleza,1412123.0
+50620,1093,2024-01-13,Tecnología,4,36423.19,0.1,App,131123.48,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50621,1001,2024-04-16,Moda,4,227877.68,0.05,Marketplace,865935.18,Diego Pérez,41.0,Puerto Montt,2023-08-28,Libros,650235.0
+50622,1141,2024-09-02,Hogar,5,188705.05,0.15,Marketplace,801996.46,Matías Fuentes,56.0,Temuco,2023-03-04,Hogar,777672.0
+50623,1196,2024-08-17,Moda,2,81890.72,0.15,App,139214.22,Valentina Muñoz,47.0,Rancagua,2023-09-28,Libros,1011346.0
+50624,1036,2024-07-20,Tecnología,3,128845.41,0.05,App,367209.42,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+50625,1135,2024-08-06,Hogar,4,192975.55,0.15,App,656116.87,Benjamín Martínez,29.0,Valparaíso,2024-03-28,Deportes,1082782.0
+50626,1263,2024-08-30,Deportes,2,7208.55,0.0,App,14417.1,Matías López,52.0,Puerto Montt,2024-10-02,Deportes,954251.0
+50627,1040,2024-11-04,Libros,1,102443.26,0.1,App,92198.93,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50628,1029,2024-08-27,Hogar,3,186285.33,0.15,Marketplace,475027.59,María Rojas,48.0,La Serena,2023-04-13,Moda,979401.0
+50629,1106,2024-04-20,Libros,2,208395.55,0.0,Web,416791.1,Sofía Morales,25.0,Antofagasta,2023-11-26,Belleza,825222.0
+50630,1022,2024-05-31,Libros,4,124924.4,0.1,App,449727.84,Tomás Rodríguez,19.0,Antofagasta,2023-09-23,Hogar,1650407.0
+50631,1267,2024-09-11,Deportes,2,139416.45,0.0,App,278832.9,Fernanda López,52.0,Valparaíso,2024-05-21,Hogar,1201143.0
+50632,1195,2024-08-31,Belleza,4,14823.34,0.05,Web,56328.69,Javiera Fuentes,59.0,Valparaíso,2024-07-30,Moda,1247554.0
+50633,1215,2024-04-25,Belleza,5,223167.02,0.0,Marketplace,1115835.1,Sofía Díaz,28.0,Rancagua,2022-09-22,Libros,574547.0
+50634,1021,2024-08-26,Libros,5,174197.97,0.05,Web,827440.36,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+50635,1168,2024-05-01,Tecnología,5,69914.83,0.05,Marketplace,332095.44,Benjamín Muñoz,36.0,Antofagasta,2024-11-07,Moda,636805.0
+50636,1166,2024-04-22,Moda,5,193840.32,0.0,Web,969201.6,Tomás Díaz,41.0,La Serena,2022-07-15,Hogar,861933.0
+50637,1289,2024-09-14,Tecnología,4,99010.14,0.0,Marketplace,396040.56,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+50638,1264,2024-09-05,Tecnología,4,166685.93,0.15,Marketplace,566732.16,Benjamín Pérez,23.0,Valparaíso,2023-05-21,Libros,438078.0
+50639,1016,2024-09-11,Libros,1,79460.96,0.05,Web,75487.91,Tomás Sepúlveda,52.0,Puerto Montt,2022-01-23,Deportes,760815.0
+50640,1159,2024-01-13,Hogar,5,93917.47,0.05,Marketplace,446107.98,Benjamín Pérez,22.0,,2022-03-04,Libros,781103.0
+50641,1200,2024-03-04,Hogar,2,226302.19,0.0,Web,452604.38,Sofía Fuentes,28.0,Rancagua,2024-08-14,Libros,656135.0
+50642,1265,2024-11-11,Hogar,4,147233.56,0.05,App,559487.53,Tomás González,64.0,Temuco,2023-06-15,Hogar,684846.0
+50643,1184,2024-12-30,Belleza,5,190074.58,0.05,Web,902854.25,Fernanda Rojas,47.0,La Serena,2023-07-01,Moda,754003.0
+50644,1229,2024-12-07,Belleza,1,236811.58,0.05,App,224971.0,María González,25.0,Concepción,2024-09-02,Belleza,794542.0
+50645,1113,2024-10-13,Libros,2,174635.51,0.1,App,314343.92,Matías Martínez,21.0,La Serena,2022-08-02,Tecnología,965100.0
+50646,1256,2024-03-29,Tecnología,4,39960.31,0.05,App,151849.18,Tomás López,49.0,Temuco,2023-04-14,Hogar,799798.0
+50647,1221,2024-02-05,Belleza,4,212895.47,0.15,App,723844.6,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50648,1189,2024-12-13,Libros,2,239602.77,0.05,Marketplace,455245.26,Sofía Muñoz,23.0,Antofagasta,2022-04-04,Belleza,953691.0
+50649,1223,2024-11-05,Belleza,3,1182119.0,0.05,App,5390462.64,Sofía Rojas,66.0,Valparaíso,2024-05-03,Belleza,384170.0
+50650,1155,2024-08-16,Hogar,4,123913.98,0.0,Marketplace,495655.92,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+50651,1153,2024-02-29,Belleza,5,50334.17,0.15,Marketplace,213920.22,María López,22.0,Antofagasta,2022-09-28,Hogar,845337.0
+50652,1172,2024-08-10,Deportes,1,177913.53,0.05,Marketplace,169017.85,Valentina Fuentes,65.0,Puerto Montt,2024-11-19,Deportes,907166.0
+50653,1131,2024-10-15,Deportes,5,186821.79,0.1,Web,840698.06,Pedro Hernández,60.0,Rancagua,2022-05-20,Belleza,915469.0
+50654,1183,2024-02-18,Tecnología,1,156822.18,0.05,Web,148981.07,Juan Hernández,24.0,Valparaíso,2022-12-15,Tecnología,871378.0
+50655,1040,2024-12-09,Moda,4,226653.08,0.15,Marketplace,770620.47,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50656,1216,2024-07-10,Belleza,2,98478.73,0.0,Marketplace,196957.46,Antonia López,61.0,Concepción,2024-12-31,Deportes,754897.0
+50657,1230,2024-02-11,Tecnología,2,52165.38,0.0,Web,104330.76,Matías González,36.0,Rancagua,2024-12-10,Moda,842379.0
+50658,1070,2024-02-25,Hogar,3,243365.73,0.1,Web,657087.47,Fernanda Martínez,43.0,Valparaíso,2022-05-23,Hogar,515998.0
+50659,1127,2024-10-18,Moda,3,226549.56,0.0,Web,679648.68,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+50660,1235,2024-08-16,Hogar,5,187983.35,0.0,Marketplace,939916.75,Daniela Díaz,23.0,La Serena,2022-09-24,Belleza,432644.0
+50661,1021,2024-08-21,Libros,2,14263.62,0.05,Marketplace,27100.88,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+50662,1241,2024-06-21,Moda,4,74336.45,0.15,App,252743.93,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+50663,1199,2024-02-13,Belleza,5,100840.06,0.15,App,428570.26,Fernanda Sepúlveda,42.0,Valparaíso,2023-08-23,Hogar,1071786.0
+50664,1218,2024-08-06,Belleza,5,91158.99,0.2,Marketplace,364635.96,Pedro Fuentes,46.0,Valparaíso,2022-12-18,Deportes,998991.0
+50665,1034,2024-08-03,Belleza,3,22516.69,0.15,App,57417.56,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50666,1290,2024-10-15,Tecnología,4,29313.16,0.1,Web,105527.38,Juan Muñoz,61.0,Temuco,2024-01-09,Moda,1454444.0
+50667,1236,2024-05-05,Deportes,1,214623.73,0.0,Web,214623.73,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50668,1107,2024-03-08,Belleza,3,81348.01,0.1,Marketplace,219639.63,Fernanda Rojas,29.0,Valparaíso,2024-05-02,Hogar,569361.0
+50669,1094,2024-01-31,Deportes,4,202218.62,0.0,App,808874.48,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+50670,1119,2024-10-19,Deportes,2,12484.24,0.05,Marketplace,23720.06,Fernanda Sepúlveda,39.0,Rancagua,2023-08-17,Hogar,845233.0
+50671,1261,2024-12-28,Belleza,2,127818.63,0.05,App,242855.4,Diego Pérez,27.0,La Serena,2023-03-22,Tecnología,889303.0
+50672,1046,2024-12-10,Tecnología,2,104946.16,0.0,Web,209892.32,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50673,1061,2024-09-10,Moda,1,39855.23,0.1,App,35869.71,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50674,1108,2024-06-10,Hogar,1,125065.55,0.05,App,118812.27,Valentina Muñoz,62.0,Valparaíso,2024-03-19,Belleza,691047.0
+50675,1044,2024-05-18,Libros,5,80801.41,0.15,App,343405.99,Matías Hernández,60.0,Valparaíso ,2024-03-29,Libros,954839.0
+50676,1205,2024-03-05,Tecnología,5,126852.41,0.0,Marketplace,634262.05,Daniela Morales,31.0,Antofagasta,2023-02-24,Hogar,724899.0
+50677,1161,2024-06-30,Libros,4,58012.4,0.05,Web,220447.12,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50678,1070,2024-02-17,Libros,1,161199.97,0.05,Web,153139.97,Fernanda Martínez,43.0,Valparaíso,2022-05-23,Hogar,515998.0
+50679,1074,2024-09-01,Deportes,3,143041.13,0.15,Web,364754.88,Sofía Torres,64.0,Santiago,2024-11-29,Moda,1020788.0
+50680,1104,2024-04-19,Moda,1,184597.39,0.15,Marketplace,156907.78,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+50681,1224,2024-03-13,Belleza,3,223565.86,0.0,Marketplace,670697.58,Juan Hernández,62.0,Puerto Montt,2023-04-23,Deportes,1018051.0
+50682,1087,2024-01-31,Deportes,2,155425.23,0.15,Marketplace,264222.89,Vicente López,27.0,La Serena,2022-08-15,Hogar,911575.0
+50683,1265,2024-02-03,Moda,5,134224.84,0.0,App,671124.2,Tomás González,64.0,Temuco,2023-06-15,Hogar,684846.0
+50684,1281,2024-03-05,Moda,3,42417.01,0.2,Marketplace,101800.82,Sofía Morales,35.0,Valparaíso,2022-11-17,Libros,972902.0
+50685,1287,2024-12-06,Libros,4,144260.33,0.0,App,577041.32,María González,63.0,,2023-04-13,Moda,762715.0
+50686,1158,2024-09-18,Deportes,4,74757.48,0.0,Marketplace,299029.92,Vicente González,34.0,santiago,2024-06-14,Tecnología,948531.0
+50687,1246,2024-08-09,Tecnología,5,29162.55,0.0,Marketplace,145812.75,Valentina Muñoz,62.0,La Serena,2024-03-02,Libros,854212.0
+50688,1257,2024-08-13,Hogar,4,174134.04,0.0,App,696536.16,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+50689,1232,2024-11-16,Libros,4,189048.98,0.2,App,604956.74,Javiera Hernández,47.0,Santiago,2024-11-22,Tecnología,607014.0
+50690,1105,2024-04-20,Deportes,4,52523.08,0.05,App,199587.7,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+50691,1289,2024-06-16,Libros,5,167796.59,0.1,App,755084.66,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+50692,1156,2024-08-19,Deportes,3,95616.33,0.15,Marketplace,243821.64,Juan Pérez,32.0,La Serena,2022-06-28,Libros,556905.0
+50693,1170,2024-04-24,Deportes,5,67882.31,0.0,App,339411.55,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+50694,1012,2024-02-09,Libros,2,154258.37,0.05,App,293090.9,Tomás Pérez,31.0,Temuco,2024-11-03,Libros,300000.0
+50695,1197,2024-03-23,Tecnología,5,83882.23,0.0,App,419411.15,Benjamín Martínez,38.0,La Serena,2023-07-19,Moda,634631.0
+50696,1297,2024-12-03,Moda,4,46755.69,0.15,Marketplace,158969.35,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50697,1032,2024-02-09,Libros,5,81074.24,0.0,App,405371.2,Diego Hernández,61.0,Concepción,2022-01-16,Hogar,979216.0
+50698,1142,2024-11-02,Moda,3,106593.86,0.05,App,303792.5,María Soto,39.0,Temuco,2024-06-23,Deportes,862561.0
+50699,1221,2024-08-14,Tecnología,4,180667.28,0.15,Marketplace,614268.75,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50700,1236,2024-05-11,Tecnología,1,235613.96,0.0,Web,235613.96,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50701,1066,2024-08-24,Belleza,2,15695.36,0.0,Web,31390.72,Fernanda Soto,20.0,Antofagasta,2022-05-02,Belleza,914131.0
+50702,1040,2024-03-19,Deportes,3,181954.72,0.0,App,545864.16,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50703,1009,2024-10-15,Tecnología,1,9037.76,0.15,Marketplace,7682.1,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+50704,1288,2024-12-24,Tecnología,4,138370.33,0.15,Web,470459.12,Valentina Rojas,,Antofagasta,2022-06-11,Moda,826286.0
+50705,1132,2024-03-14,Libros,5,119678.82,0.15,Web,508634.99,Antonia Pérez,56.0,Puerto Montt,2022-11-18,Tecnología,1042131.0
+50706,1221,2024-01-13,Deportes,4,5610.63,0.05,Web,21320.39,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50707,1093,2024-04-07,Tecnología,2,14184.98,0.2,Web,22695.97,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50708,1143,2024-10-25,Belleza,1,243416.83,0.05,App,231245.99,María Martínez,39.0,La Serena,2022-02-09,Tecnología,849731.0
+50709,1059,2024-11-14,Moda,3,179493.75,0.1,Web,484633.12,Vicente González,30.0,,2023-07-03,Libros,743349.0
+50710,1024,2024-08-12,Hogar,1,193176.96,0.2,App,154541.57,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50711,1181,2024-01-23,Libros,2,222850.79,0.1,Marketplace,401131.42,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+50712,1024,2024-01-29,Moda,4,94668.58,0.15,App,321873.17,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50713,1105,2024-07-03,Tecnología,4,14100.32,0.05,Web,53581.22,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+50714,1255,2024-09-20,Deportes,2,156215.72,0.15,Web,265566.72,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+50715,1148,2024-11-09,Moda,2,36065.0,0.0,App,72130.0,Tomás Soto,61.0,,2024-01-18,Libros,452063.0
+50716,1147,2024-11-07,Hogar,3,119064.31,0.0,Marketplace,357192.93,Tomás Silva,41.0,Puerto Montt,2024-07-10,Tecnología,579874.0
+50717,1157,2024-08-16,Tecnología,2,246258.46,0.15,App,418639.38,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50718,1270,2024-04-11,Tecnología,4,15724.71,0.0,Marketplace,62898.84,Benjamín López,42.0,Rancagua,2023-06-16,Moda,479034.0
+50719,1187,2024-04-05,Belleza,1,20223.85,0.15,Web,17190.27,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50720,1252,2024-11-24,Tecnología,2,93868.5,0.05,Marketplace,178350.15,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+50721,1244,2024-10-25,Belleza,4,136225.47,0.15,Marketplace,463166.6,Antonia Fuentes,64.0,Temuco,2023-09-16,Deportes,955858.0
+50722,1228,2024-12-01,Moda,3,134512.03,0.05,Web,383359.29,Matías Martínez,26.0,Valparaíso,2024-02-23,tecnologia,944883.0
+50723,1268,2024-10-04,Belleza,5,145592.78,0.0,App,727963.9,Juan Rodríguez,31.0,Rancagua,2024-10-27,Belleza,1419275.0
+50724,1095,2024-01-05,Deportes,3,141153.83,0.1,Marketplace,381115.34,Diego López,66.0,Santiago,2022-06-02,Belleza,1229317.0
+50725,1119,2024-05-04,Hogar,4,76918.08,0.2,App,246137.86,Fernanda Sepúlveda,39.0,Rancagua,2023-08-17,Hogar,845233.0
+50726,1221,2024-05-04,Hogar,4,146872.17,0.0,Marketplace,587488.68,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+50727,1046,2024-01-07,Belleza,2,108729.64,0.0,Marketplace,217459.28,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50728,1211,2024-03-07,Hogar,2,121490.46,0.1,App,218682.83,Daniela González,33.0,Temuco,2023-08-08,Deportes,753326.0
+50729,1161,2024-07-25,Libros,5,143845.42,0.1,Web,647304.39,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50730,1046,2024-04-23,Libros,5,9812.4,0.0,Marketplace,49062.0,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50731,1077,2024-02-09,Belleza,3,166060.2,0.2,App,398544.48,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50732,1129,2024-06-04,Libros,1,15319.36,0.05,Marketplace,14553.39,Javiera Contreras,53.0,Puerto Montt,2023-02-20,Hogar,562333.0
+50733,1101,2024-12-12,Tecnología,2,239801.38,0.0,Web,479602.76,Pedro Hernández,,Antofagasta,2024-10-03,Libros,655427.0
+50734,1157,2024-08-19,Hogar,5,27012.48,0.1,Web,121556.16,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50735,1053,2024-03-28,Belleza,3,17061.27,0.15,App,43506.24,Fernanda Torres,29.0,Antofagasta,2024-10-24,Deportes,910291.0
+50736,1192,2024-09-29,Moda,3,136896.65,0.1,App,369620.95,Benjamín Fuentes,64.0,Rancagua,2023-08-14,Deportes,300000.0
+50737,1115,2024-10-13,Belleza,2,190137.46,0.1,Marketplace,342247.43,Valentina Hernández,35.0,Temuco,2024-10-06,Hogar,819816.0
+50738,1046,2024-07-03,Tecnología,2,24623.28,0.15,App,41859.58,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50739,1273,2024-06-15,Belleza,5,111287.74,0.05,Web,528616.76,Juan Torres,18.0,Puerto Montt,2022-11-14,Deportes,1161524.0
+50740,1214,2024-03-07,Belleza,4,132432.95,0.05,Marketplace,503245.21,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+50741,1071,2024-10-31,Tecnología,4,54916.8,0.0,App,219667.2,Daniela Rodríguez,34.0,Valparaíso,2022-04-23,Deportes,851911.0
+50742,1284,2024-08-26,Libros,1,148962.27,0.0,App,148962.27,Tomás Sepúlveda,27.0,Concepción,2023-03-22,Hogar,1218965.0
+50743,1183,2024-01-14,Libros,1,104222.25,0.05,Marketplace,99011.14,Juan Hernández,24.0,Valparaíso,2022-12-15,Tecnología,871378.0
+50744,1186,2024-05-17,Deportes,1,153414.27,0.1,Web,138072.84,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+50745,1078,2024-08-30,Belleza,1,112264.79,0.0,Marketplace,112264.79,Camila Hernández,,Concepción,2024-03-17,Moda,368408.0
+50746,1162,2024-12-21,Libros,2,190207.17,0.15,Web,323352.19,Tomás Pérez,68.0,Concepción,2023-10-13,Libros,719868.0
+50747,1007,2024-06-28,Moda,5,223240.74,0.0,App,1116203.7,Pedro Martínez,19.0,Antofagasta,2023-04-14,Tecnología,983762.0
+50748,1123,2024-04-22,Hogar,1,108378.42,0.05,Marketplace,102959.5,Matías Silva,52.0,santiago,2022-10-12,Tecnología,879069.0
+50749,1015,2024-06-17,Tecnología,3,193225.78,0.05,Marketplace,550693.47,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+50750,1222,2024-01-16,Belleza,4,166465.05,0.1,Marketplace,599274.18,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50751,1237,2024-04-20,Moda,4,90114.21,,Web,342434.0,María Sepúlveda,56.0,Antofagasta,2022-01-12,Hogar,730389.0
+50752,1215,2024-11-06,Deportes,2,200267.51,0.1,Marketplace,360481.52,Sofía Díaz,28.0,Rancagua,2022-09-22,Libros,574547.0
+50753,1023,2024-07-23,Belleza,2,129711.29,0.0,Web,259422.58,Valentina Díaz,53.0,santiago,2023-05-06,Libros,382581.0
+50754,1028,2024-12-16,Moda,3,67284.36,,Marketplace,171575.12,Benjamín Silva,40.0,Valparaíso,2024-02-02,Belleza,749816.0
+50755,1067,2024-08-01,Moda,4,191924.21,0.0,Marketplace,767696.84,Tomás Sepúlveda,35.0,La Serena,2024-12-05,Moda,1064755.0
+50756,1231,2024-09-04,Deportes,1,105104.78,0.1,Web,94594.3,Sofía Contreras,61.0,La Serena,2022-11-02,Belleza,1100487.0
+50757,1276,2024-06-22,Belleza,1,229987.63,0.0,Marketplace,229987.63,Daniela Silva,18.0,Santiago,2024-02-24,Deportes,1246470.0
+50758,1190,2024-08-09,Hogar,2,134851.74,0.2,App,215762.78,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+50759,1009,2024-01-25,Hogar,2,230896.39,0.05,Marketplace,438703.14,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+50760,1134,2024-09-10,Tecnología,2,32686.4,0.0,App,65372.8,Vicente Muñoz,55.0,Antofagasta,2022-07-09,Deportes,787557.0
+50761,1084,2024-08-23,Belleza,5,215094.44,0.2,App,860377.76,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50762,1024,2024-09-03,Hogar,4,176891.19,0.0,Marketplace,707564.76,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50763,1270,2024-10-21,Libros,4,32312.53,0.0,Web,129250.12,Benjamín López,42.0,Rancagua,2023-06-16,Moda,479034.0
+50764,1153,2024-03-01,Hogar,4,173506.6,0.15,Marketplace,589922.44,María López,22.0,Antofagasta,2022-09-28,Hogar,845337.0
+50765,1077,2024-09-06,Belleza,4,105715.32,0.15,Marketplace,359432.09,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50766,1208,2024-03-26,Deportes,5,44782.85,0.15,App,190327.11,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+50767,1143,2024-01-18,Hogar,3,160832.96,0.05,Marketplace,458373.94,María Martínez,39.0,La Serena,2022-02-09,Tecnología,849731.0
+50768,1024,2024-04-01,Belleza,1,51148.31,0.0,App,51148.31,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+50769,1085,2024-12-14,Libros,1,125638.12,0.05,Web,119356.21,Juan Soto,36.0,Concepción,2024-02-03,Deportes,797878.0
+50770,1092,2024-02-28,Moda,2,107453.4,0.0,App,214906.8,Camila Martínez,61.0,Puerto Montt,2024-04-17,Belleza,749609.0
+50771,1263,2024-05-16,Belleza,4,119841.95,0.1,Web,431431.02,Matías López,52.0,Puerto Montt,2024-10-02,Deportes,954251.0
+50772,1239,2024-07-09,Hogar,3,52596.59,0.05,App,149900.28,Camila Sepúlveda,33.0,Puerto Montt,2024-10-23,Deportes,989563.0
+50773,1287,2024-06-10,Hogar,2,102792.17,0.1,App,185025.91,María González,63.0,,2023-04-13,Moda,762715.0
+50774,1283,2024-10-24,Tecnología,4,197204.8,,Marketplace,788819.2,Fernanda Martínez,59.0,Valparaíso,2023-02-22,Libros,820956.0
+50775,1178,2024-05-07,Libros,4,71982.92,0.15,Web,244741.93,Javiera Sepúlveda,38.0,Antofagasta,2024-01-20,Moda,972526.0
+50776,1162,2024-06-15,Moda,5,32923.19,0.1,Marketplace,148154.36,Tomás Pérez,68.0,Concepción,2023-10-13,Libros,719868.0
+50777,1106,2024-01-01,Moda,4,64405.17,0.2,App,206096.54,Sofía Morales,25.0,Antofagasta,2023-11-26,Belleza,825222.0
+50778,1126,2024-09-15,Moda,5,80686.54,0.05,App,383261.06,Antonia Muñoz,22.0,Antofagasta,2023-01-11,Belleza,764214.0
+50779,1218,2024-03-25,Tecnología,5,309220.3,0.0,App,2473762.4,Pedro Fuentes,46.0,Valparaíso,2022-12-18,Deportes,998991.0
+50780,1080,2024-06-05,Belleza,2,76835.14,0.0,Marketplace,153670.28,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+50781,1287,2024-06-19,Tecnología,5,91229.16,0.2,Marketplace,364916.64,María González,63.0,,2023-04-13,Moda,762715.0
+50782,1273,2024-04-14,Hogar,3,191382.9,0.05,Web,545441.26,Juan Torres,18.0,Puerto Montt,2022-11-14,Deportes,1161524.0
+50783,1037,2024-02-20,Libros,5,210553.36,0.0,Web,1052766.8,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
+50784,1157,2024-06-25,Libros,5,46546.31,0.1,App,209458.4,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+50785,1259,2024-03-19,Libros,1,138415.51,0.05,Marketplace,131494.73,María Rodríguez,46.0,Valparaíso,2023-04-08,Deportes,1355670.0
+50786,1253,2024-05-31,Tecnología,5,179271.83,0.05,Marketplace,851541.19,Tomás Morales,59.0,Santiago,2024-01-19,Moda,793757.0
+50787,1122,2024-05-02,Libros,1,88571.57,0.1,Marketplace,79714.41,Valentina Silva,41.0,Antofagasta,2024-08-11,Tecnología,983142.0
+50788,1077,2024-02-08,Tecnología,5,82918.98,0.1,App,373135.41,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50789,1137,2024-12-26,Tecnología,4,111353.7,0.15,Marketplace,378602.58,Javiera Sepúlveda,35.0,Valparaíso ,2023-08-25,Moda,592799.0
+50790,1288,2024-03-20,Tecnología,5,89798.02,0.2,App,359192.08,Valentina Rojas,,Antofagasta,2022-06-11,Moda,826286.0
+50791,1095,2024-09-17,Moda,2,6922.7,0.05,Web,13153.13,Diego López,66.0,Santiago,2022-06-02,Belleza,1229317.0
+50792,1186,2024-03-13,Hogar,5,99254.18,0.2,Marketplace,397016.72,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+50793,1249,2024-04-22,Moda,2,101621.75,0.05,App,193081.32,Camila Díaz,66.0,Valparaíso,2023-04-28,Moda,1174207.0
+50794,1090,2024-06-11,Tecnología,4,111143.19,0.15,Web,377886.85,Diego González,60.0,Concepción,2023-08-04,Libros,805526.0
+50795,1068,2024-07-12,Deportes,1,74309.13,0.05,App,70593.67,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50796,1191,2024-01-06,Libros,2,212956.87,0.0,Marketplace,425913.74,Sofía Díaz,35.0,Antofagasta,2022-05-04,Moda,612677.0
+50797,1180,2024-11-18,Hogar,4,241519.23,0.2,Marketplace,772861.54,Pedro Martínez,57.0,Temuco,2022-03-27,Tecnología,1278579.0
+50798,1100,2024-05-18,Tecnología,3,49136.63,0.05,Web,140039.4,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+50799,1224,2024-11-01,Hogar,1,129179.04,0.2,App,103343.23,Juan Hernández,62.0,Puerto Montt,2023-04-23,Deportes,1018051.0
+50800,1036,2024-05-24,Hogar,2,181675.77,0.05,web,345183.96,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+50801,1238,2024-02-11,Libros,3,172597.57,0.2,Web,414234.17,Valentina Fuentes,,Rancagua,2022-08-01,Belleza,714407.0
+50802,1002,2024-01-08,Tecnología,5,135511.77,0.05,App,643680.91,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+50803,1193,2024-01-12,Libros,2,44320.72,0.15,Marketplace,75345.22,Javiera Sepúlveda,27.0,Concepción,2023-10-22,Tecnología,500059.0
+50804,1152,2024-03-30,Belleza,3,97013.19,0.2,Web,232831.66,Valentina Rodríguez,28.0,Temuco,2023-10-15,Libros,798818.0
+50805,1148,2024-12-17,Moda,4,72014.35,0.05,App,273654.53,Tomás Soto,61.0,,2024-01-18,Libros,452063.0
+50806,1123,2024-02-13,Hogar,4,75946.1,0.2,Web,243027.52,Matías Silva,52.0,santiago,2022-10-12,Tecnología,879069.0
+50807,1198,2024-10-25,Moda,3,238386.53,0.0,Web,715159.59,Vicente Soto,51.0,Antofagasta,2023-01-30,Deportes,756587.0
+50808,1034,2024-01-20,Tecnología,1,208570.87,0.1,Marketplace,187713.78,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50809,1291,2024-11-19,Deportes,5,233076.11,0.1,Web,1048842.49,Diego Fuentes,44.0,Santiago,2022-11-29,Moda,643662.0
+50810,1146,2024-06-04,Deportes,2,149786.22,0.0,Web,299572.44,Valentina Rojas,55.0,Valparaíso,2022-09-10,Moda,995262.0
+50811,1063,2024-01-07,Moda,3,159139.07,0.1,Marketplace,429675.49,Diego Rodríguez,19.0,Santiago,2024-09-28,Moda,851974.0
+50812,1140,2024-12-29,Moda,4,228518.45,0.0,Web,914073.8,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+50813,1279,2024-09-25,Libros,2,122811.87,0.0,Marketplace,245623.74,Catalina González,62.0,Rancagua,2022-06-25,Moda,968216.0
+50814,1058,2024-10-15,Deportes,2,167487.47,0.0,Marketplace,334974.94,María Contreras,51.0,Temuco,2023-04-15,Moda,903377.0
+50815,1150,2024-08-18,Belleza,1,218882.87,0.05,App,207938.73,María Díaz,36.0,Concepción,2022-04-16,Libros,1326116.0
+50816,1169,2024-12-22,Moda,5,98327.5,0.05,App,467055.62,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+50817,1085,2024-05-11,Libros,3,159949.14,0.05,App,455855.05,Juan Soto,36.0,Concepción,2024-02-03,Deportes,797878.0
+50818,1016,2024-10-22,Moda,5,35469.54,0.1,Marketplace,159612.93,Tomás Sepúlveda,52.0,Puerto Montt,2022-01-23,Deportes,760815.0
+50819,1212,2024-02-27,Belleza,3,141778.97,0.05,Marketplace,404070.06,Daniela Soto,35.0,Antofagasta,2024-09-08,Moda,400040.0
+50820,1124,2024-01-06,Hogar,1,222248.17,0.05,Web,211135.76,Benjamín López,46.0,Rancagua,2023-11-07,Libros,661684.0
+50821,1088,2024-01-19,Deportes,2,54969.87,0.15,Web,93448.78,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+50822,1287,2024-01-26,Libros,5,211292.45,0.1,App,950816.02,María González,63.0,,2023-04-13,Moda,762715.0
+50823,1296,2024-02-25,Libros,2,153103.54,0.05,App,290896.73,Diego Martínez,49.0,Antofagasta,2024-02-22,Libros,933572.0
+50824,1235,2024-07-18,Deportes,1,109880.38,0.2,Marketplace,87904.3,Daniela Díaz,23.0,La Serena,2022-09-24,Belleza,432644.0
+50825,1206,2024-07-03,Moda,3,26841.82,0.1,Marketplace,72472.91,Pedro Torres,26.0,Santiago,2024-11-23,Tecnología,683208.0
+50826,1116,2024-02-26,Libros,4,5907.26,0.05,App,22447.59,María Torres,36.0,CONCEPCIÓN,2023-02-03,Libros,778801.0
+50827,1229,2024-08-21,Deportes,5,215694.72,0.05,App,1024549.92,María González,25.0,Concepción,2024-09-02,Belleza,794542.0
+50828,1278,2024-04-02,Hogar,4,132609.63,0.05,App,503916.59,Matías Hernández,62.0,Concepción,2024-12-27,Belleza,1412123.0
+50829,1299,2024-01-11,Libros,1,55619.66,0.05,App,52838.68,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50830,1202,2024-11-29,Belleza,4,74227.84,0.15,App,252374.66,Antonia Morales,60.0,Concepción,2022-02-02,Belleza,756005.0
+50831,1049,2024-09-05,Moda,5,62590.69,0.1,Web,281658.11,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+50832,1093,2024-02-14,Hogar,4,226278.06,0.05,App,859856.63,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50833,1283,2024-04-23,Hogar,2,243608.93,0.0,Marketplace,487217.86,Fernanda Martínez,59.0,Valparaíso,2023-02-22,Libros,820956.0
+50834,1010,2024-02-27,Belleza,2,214516.32,0.0,App,429032.64,Javiera Morales,58.0,Temuco,2023-02-20,Libros,1043161.0
+50835,1041,2024-08-02,Belleza,3,110647.23,0.05,App,315344.61,Sofía Martínez,66.0,Temuco,2022-05-04,Tecnología,664374.0
+50836,1135,2024-05-26,Moda,2,83077.16,0.05,Web,157846.6,Benjamín Martínez,29.0,Valparaíso,2024-03-28,Deportes,1082782.0
+50837,1224,2024-03-28,Belleza,4,124102.44,0.1,Web,446768.78,Juan Hernández,62.0,Puerto Montt,2023-04-23,Deportes,1018051.0
+50838,1291,2024-01-16,Hogar,3,37681.63,0.0,Marketplace,113044.89,Diego Fuentes,44.0,Santiago,2022-11-29,Moda,643662.0
+50839,1274,2024-12-12,Belleza,2,60085.42,0.0,Marketplace,120170.84,Diego Hernández,24.0,Concepción,2022-02-15,Libros,646707.0
+50840,1046,2024-06-18,Tecnología,5,138265.28,0.1,Marketplace,622193.76,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+50841,1161,2024-09-10,Moda,3,42483.09,0.2,App,101959.42,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+50842,1014,2024-10-08,Belleza,1,20122.96,0.1,Web,18110.66,Diego Fuentes,56.0,Puerto Montt,2022-11-19,Belleza,871419.0
+50843,1137,2024-07-19,Deportes,5,185601.42,0.05,App,881606.74,Javiera Sepúlveda,35.0,Valparaíso ,2023-08-25,Moda,592799.0
+50844,1013,2024-03-14,Libros,4,90906.5,0.05,Web,345444.7,Daniela Muñoz,35.0,Temuco,2024-01-27,Belleza,824775.0
+50845,1240,2024-08-21,Deportes,3,244978.09,0.0,Web,734934.27,Antonia Fuentes,60.0,Valparaíso,2022-09-24,Belleza,1130335.0
+50846,1294,2024-04-15,Deportes,5,149732.0,0.15,Web,636361.0,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+50847,1200,2024-09-27,Libros,4,117908.16,0.05,App,448051.01,Sofía Fuentes,28.0,Rancagua,2024-08-14,Libros,656135.0
+50848,1149,2024-05-20,Tecnología,4,116653.56,0.0,App,466614.24,Tomás Torres,26.0,Santiago,2024-05-07,Belleza,808063.0
+50849,1140,2024-08-03,Libros,1,103761.47,0.05,App,98573.4,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+50850,1273,2024-02-05,Belleza,1,110579.36,0.0,Web,110579.36,Juan Torres,18.0,Puerto Montt,2022-11-14,Deportes,1161524.0
+50851,1101,2024-12-29,Deportes,4,238630.74,0.0,Web,954522.96,Pedro Hernández,,Antofagasta,2024-10-03,Libros,655427.0
+50852,1034,2024-06-30,Moda,1,218662.09,0.1,App,196795.88,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50853,1281,2024-02-27,Moda,1,104096.13,0.0,Marketplace,104096.13,Sofía Morales,35.0,Valparaíso,2022-11-17,Libros,972902.0
+50854,1182,2024-11-20,Libros,3,158476.25,0.05,App,451657.31,Camila Fuentes,20.0,Valparaíso,2023-01-21,Belleza,920565.0
+50855,1233,2024-09-24,Hogar,2,215445.69,0.05,Web,409346.81,Catalina Fuentes,52.0,Valparaíso,2022-03-02,Deportes,961934.0
+50856,1170,2024-10-20,Deportes,2,176045.83,0.0,App,352091.66,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+50857,1034,2024-11-30,Belleza,2,160237.11,0.05,App,304450.51,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+50858,1237,2024-04-14,Moda,5,223148.02,0.0,Marketplace,1115740.1,María Sepúlveda,56.0,Antofagasta,2022-01-12,Hogar,730389.0
+50859,1102,2024-07-05,Tecnología,2,166980.0,0.0,Web,333960.0,Sofía Muñoz,69.0,Rancagua,2022-02-17,Deportes,787734.0
+50860,1065,2024-12-01,Tecnología,4,237101.88,0.05,App,900987.14,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50861,1030,2024-08-16,Libros,1,212478.09,0.15,Marketplace,180606.38,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+50862,1133,2024-09-18,Tecnología,2,129384.37,0.05,App,245830.3,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50863,1138,2024-09-28,Tecnología,5,212139.75,0.05,App,1007663.81,Benjamín Torres,36.0,La Serena,2024-08-03,Belleza,1015709.0
+50864,1183,2024-10-10,Belleza,3,181323.78,0.0,Marketplace,543971.34,Juan Hernández,24.0,Valparaíso,2022-12-15,Tecnología,871378.0
+50865,1202,2024-06-26,Deportes,3,201900.3,0.0,Marketplace,605700.9,Antonia Morales,60.0,Concepción,2022-02-02,Belleza,756005.0
+50866,1081,2024-08-07,Moda,5,73639.76,0.0,Web,368198.8,Camila Sepúlveda,27.0,Temuco,2024-07-31,Deportes,931968.0
+50867,1130,2024-05-22,Moda,1,136692.6,0.15,Marketplace,116188.71,Catalina López,29.0,Antofagasta,2023-08-08,Deportes,886112.0
+50868,1296,2024-06-26,Belleza,3,23996.76,0.15,Web,61191.74,Diego Martínez,49.0,Antofagasta,2024-02-22,Libros,933572.0
+50869,1012,2024-01-25,Hogar,1,100529.66,0.15,App,85450.21,Tomás Pérez,31.0,Temuco,2024-11-03,Libros,300000.0
+50870,1182,2024-08-26,Belleza,2,9964.68,0.0,Web,19929.36,Camila Fuentes,20.0,Valparaíso,2023-01-21,Belleza,920565.0
+50871,1200,2024-04-12,Belleza,5,211336.77,0.2,App,845347.08,Sofía Fuentes,28.0,Rancagua,2024-08-14,Libros,656135.0
+50872,1200,2024-02-12,Deportes,3,242368.04,0.0,Web,727104.12,Sofía Fuentes,28.0,Rancagua,2024-08-14,Libros,656135.0
+50873,1146,2024-12-11,Belleza,1,152985.04,0.15,Marketplace,130037.28,Valentina Rojas,55.0,Valparaíso,2022-09-10,Moda,995262.0
+50874,1128,2024-10-25,Hogar,4,166403.98,0.05,Web,632335.12,María Soto,26.0,Valparaíso,2023-06-03,Deportes,983237.0
+50875,1203,2024-10-10,Deportes,3,86138.91,0.0,App,258416.73,Antonia Soto,28.0,Temuco,2023-08-22,Moda,459837.0
+50876,1101,2024-05-03,Hogar,2,149913.33,0.15,Marketplace,254852.66,Pedro Hernández,,Antofagasta,2024-10-03,Libros,655427.0
+50877,1061,2024-08-09,Deportes,1,75345.74,0.0,App,75345.74,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+50878,1030,2024-01-27,Libros,4,137861.16,0.1,Marketplace,496300.18,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+50879,1047,2024-03-18,Moda,4,117015.74,0.05,Marketplace,444659.81,Catalina Muñoz,57.0,Concepción,2024-01-09,Moda,835300.0
+50880,1095,2024-05-10,Tecnología,2,30036.31,0.0,App,60072.62,Diego López,66.0,Santiago,2022-06-02,Belleza,1229317.0
+50881,1270,2024-08-31,Libros,5,55194.28,0.0,Marketplace,275971.4,Benjamín López,42.0,Rancagua,2023-06-16,Moda,479034.0
+50882,1054,2024-10-19,Tecnología,4,246395.9,0.1,App,887025.24,Diego Díaz,55.0,Antofagasta,2022-05-18,Deportes,747340.0
+50883,1036,2024-11-27,Belleza,4,121631.22,0.05,Marketplace,462198.64,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+50884,1292,2024-07-07,Libros,3,208683.84,0.1,Marketplace,563446.37,Benjamín Sepúlveda,39.0,Santiago,2023-08-30,Tecnología,428255.0
+50885,1230,2024-10-01,Hogar,4,210637.64,0.0,App,842550.56,Matías González,36.0,Rancagua,2024-12-10,Moda,842379.0
+50886,1037,2024-10-02,Deportes,1,154280.83,,App,154280.83,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
+50887,1253,2024-07-29,Moda,3,175137.61,0.15,App,446600.91,Tomás Morales,59.0,Santiago,2024-01-19,Moda,793757.0
+50888,1236,2024-05-06,Deportes,3,136207.48,0.15,App,347329.07,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50889,1293,2024-03-14,Moda,4,205589.42,0.0,Web,822357.68,Pedro Sepúlveda,57.0,Puerto Montt,2024-12-17,tecnologia,1289199.0
+50890,1222,2024-08-14,Moda,1,217797.32,0.05,Marketplace,206907.45,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50891,1040,2024-03-02,Libros,4,47864.52,0.1,Web,172312.27,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50892,1296,2024-09-19,Tecnología,3,71552.39,0.0,Web,214657.17,Diego Martínez,49.0,Antofagasta,2024-02-22,Libros,933572.0
+50893,1115,2024-06-22,Tecnología,4,222502.73,0.0,App,890010.92,Valentina Hernández,35.0,Temuco,2024-10-06,Hogar,819816.0
+50894,1275,2024-09-05,Moda,2,186071.65,0.15,App,316321.8,Valentina Rodríguez,46.0,Santiago,2023-07-26,Moda,1010844.0
+50895,1103,2024-07-20,Belleza,5,226155.91,0.15,Web,961162.62,Pedro Soto,61.0,La Serena,2023-02-04,Belleza,730400.0
+50896,1173,2024-03-23,Deportes,3,134449.03,0.0,Web,403347.09,Juan Rojas,67.0,Concepción,2024-06-14,Hogar,844909.0
+50897,1087,2024-10-26,Deportes,4,100846.44,0.05,Marketplace,383216.47,Vicente López,27.0,La Serena,2022-08-15,Hogar,911575.0
+50898,1187,2024-07-21,Hogar,2,44417.03,0.0,Web,88834.06,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+50899,1120,2024-07-20,Deportes,2,190680.12,0.05,App,362292.23,Catalina Rojas,40.0,Antofagasta,2022-02-15,Moda,812331.0
+50900,1074,2024-08-30,Moda,5,87161.84,0.1,Marketplace,392228.28,Sofía Torres,64.0,Santiago,2024-11-29,Moda,1020788.0
+50901,1236,2024-11-11,Belleza,2,110035.63,0.05,App,209067.7,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50902,1144,2024-01-04,Tecnología,2,177096.54,0.1,Web,318773.77,Juan Rojas,36.0,Valparaíso,2022-05-07,Tecnología,864615.0
+50903,1165,2024-10-29,Hogar,4,225122.54,0.0,Web,900490.16,Fernanda Silva,,,2023-03-16,Libros,896255.0
+50904,1055,2024-09-20,Moda,4,59569.47,0.05,App,226363.99,Antonia Contreras,66.0,Concepción,2023-02-15,Deportes,1143175.0
+50905,1205,2024-01-11,tecnologia,2,195905.9,0.05,App,372221.21,Daniela Morales,31.0,Antofagasta,2023-02-24,Hogar,724899.0
+50906,1068,2024-07-26,Deportes,2,242493.81,0.1,App,436488.86,Benjamín Hernández,56.0,Concepción,2024-02-04,Belleza,1158712.0
+50907,1043,2024-12-12,Belleza,5,70399.79,0.0,Web,351998.95,Juan López,53.0,Puerto Montt,2022-08-01,Hogar,828432.0
+50908,1256,2024-10-11,Tecnología,5,216889.6,0.15,Web,921780.8,Tomás López,49.0,Temuco,2023-04-14,Hogar,799798.0
+50909,1280,2024-10-12,Moda,4,152809.98,0.05,Marketplace,580677.92,Diego Hernández,46.0,Santiago,2023-05-08,Hogar,999465.0
+50910,1142,2024-11-09,Libros,4,174944.11,0.0,App,699776.44,María Soto,39.0,Temuco,2024-06-23,Deportes,862561.0
+50911,1036,2024-10-21,Hogar,5,240855.29,0.05,Web,1144062.63,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+50912,1143,2024-12-29,Moda,3,151140.28,0.0,Marketplace,453420.84,María Martínez,39.0,La Serena,2022-02-09,Tecnología,849731.0
+50913,1183,2024-05-01,Belleza,1,60163.55,0.15,App,51139.02,Juan Hernández,24.0,Valparaíso,2022-12-15,Tecnología,871378.0
+50914,1030,2024-11-16,Tecnología,2,145931.45,0.0,Marketplace,291862.9,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+50915,1123,2024-11-13,Deportes,1,131724.25,0.15,Marketplace,111965.61,Matías Silva,52.0,santiago,2022-10-12,Tecnología,879069.0
+50916,1236,2024-06-16,Libros,1,121435.34,0.05,App,115363.57,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+50917,1237,2024-02-26,Belleza,4,16600.25,0.0,Web,66401.0,María Sepúlveda,56.0,Antofagasta,2022-01-12,Hogar,730389.0
+50918,1087,2024-12-26,Moda,2,151321.6,0.2,Marketplace,242114.56,Vicente López,27.0,La Serena,2022-08-15,Hogar,911575.0
+50919,1137,2024-04-19,Belleza,4,46922.99,0.15,Web,159538.17,Javiera Sepúlveda,35.0,Valparaíso ,2023-08-25,Moda,592799.0
+50920,1060,2024-07-25,Hogar,2,9384.5,0.15,Marketplace,15953.65,Catalina Rojas,,Rancagua,2024-12-31,Hogar,549894.0
+50921,1175,2024-05-04,Hogar,5,131320.97,0.1,App,590944.36,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+50922,1226,2024-10-07,Libros,1,48199.59,0.1,Web,43379.63,Valentina Muñoz,36.0,Santiago,2023-05-08,Moda,721566.0
+50923,1111,2024-06-19,Libros,1,213357.19,0.0,Web,213357.19,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+50924,1167,2024-05-20,Moda,4,146592.82,0.15,App,498415.59,Benjamín Soto,,Concepción,2023-02-12,Hogar,1094302.0
+50925,1184,2024-02-03,Deportes,5,234589.25,0.0,Marketplace,1172946.25,Fernanda Rojas,47.0,La Serena,2023-07-01,Moda,754003.0
+50926,1005,2024-07-16,Deportes,1,10809.81,0.1,Marketplace,9728.83,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+50927,1016,2024-04-21,Tecnología,1,184365.98,0.05,Web,175147.68,Tomás Sepúlveda,52.0,Puerto Montt,2022-01-23,Deportes,760815.0
+50928,1177,2024-06-25,Moda,3,236409.5,0.1,Marketplace,638305.65,Matías Torres,25.0,Antofagasta,2023-11-20,Libros,907760.0
+50929,1055,2024-12-30,Moda,2,55262.3,0.15,App,93945.91,Antonia Contreras,66.0,Concepción,2023-02-15,Deportes,1143175.0
+50930,1210,2024-03-03,Moda,1,123770.86,0.1,Marketplace,111393.77,Catalina Muñoz,20.0,Rancagua,2023-05-28,Moda,541942.0
+50931,1065,2024-12-15,Libros,3,216890.91,0.15,Web,553071.82,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+50932,1192,2024-11-23,Hogar,2,213810.27,0.15,App,363477.46,Benjamín Fuentes,64.0,Rancagua,2023-08-14,Deportes,300000.0
+50933,1002,2024-03-12,Deportes,2,237515.5,0.05,App,451279.45,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+50934,1066,2024-03-25,Hogar,1,74579.69,0.05,Marketplace,70850.71,Fernanda Soto,20.0,Antofagasta,2022-05-02,Belleza,914131.0
+50935,1154,2024-12-14,Tecnología,3,24653.47,0.2,Marketplace,59168.33,Javiera Torres,59.0,Concepción,2024-03-29,Tecnología,613803.0
+50936,1022,2024-02-18,Deportes,4,464597.5,0.15,Marketplace,2527410.4,Tomás Rodríguez,19.0,Antofagasta,2023-09-23,Hogar,1650407.0
+50937,1064,2024-11-30,Deportes,5,16106.62,0.15,App,68453.14,Pedro Contreras,60.0,Antofagasta,2023-08-27,Deportes,675492.0
+50938,1093,2024-08-24,Belleza,2,126193.65,0.0,App,252387.3,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50939,1149,2024-05-24,Hogar,3,210576.93,0.0,App,631730.79,Tomás Torres,26.0,Santiago,2024-05-07,Belleza,808063.0
+50940,1038,2024-12-04,Tecnología,2,241427.81,0.1,Web,434570.06,Camila Fuentes,66.0,Santiago,2023-09-20,Hogar,780254.0
+50941,1077,2024-07-05,Belleza,3,76404.06,0.15,Marketplace,194830.35,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50942,1084,2024-09-23,Libros,1,85432.75,0.05,Web,81161.11,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50943,1134,2024-08-22,Deportes,1,217061.26,0.1,App,195355.13,Vicente Muñoz,55.0,Antofagasta,2022-07-09,Deportes,787557.0
+50944,1264,2024-10-20,Hogar,2,6968.42,0.15,App,11846.31,Benjamín Pérez,23.0,Valparaíso,2023-05-21,Libros,438078.0
+50945,1088,2024-02-25,Libros,5,121280.36,0.0,Marketplace,606401.8,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+50946,1022,2024-09-01,Libros,2,208083.75,0.1,Web,374550.75,Tomás Rodríguez,19.0,Antofagasta,2023-09-23,Hogar,1650407.0
+50947,1299,2024-07-16,Belleza,1,54065.93,0.0,Marketplace,54065.93,Valentina Morales,31.0,Valparaíso,2023-01-31,Hogar,300000.0
+50948,1122,2024-12-24,Deportes,1,164098.14,0.1,App,147688.33,Valentina Silva,41.0,Antofagasta,2024-08-11,Tecnología,983142.0
+50949,1084,2024-05-26,Hogar,5,95993.33,0.05,Web,455968.32,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+50950,1265,2024-08-05,Moda,3,181076.39,0.0,App,543229.17,Tomás González,64.0,Temuco,2023-06-15,Hogar,684846.0
+50951,1155,2024-01-02,Deportes,1,194999.36,0.2,App,155999.49,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+50952,1099,2024-04-05,Hogar,1,86796.29,0.0,Web,86796.29,Catalina González,57.0,Puerto Montt,2022-08-13,Deportes,862764.0
+50953,1109,2024-03-08,Hogar,5,127222.68,0.15,Web,540696.39,Javiera Muñoz,39.0,La Serena,2024-10-09,Hogar,869322.0
+50954,1088,2024-01-18,Libros,2,100699.45,0.1,Marketplace,181259.01,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+50955,1172,2024-04-22,Hogar,3,122391.41,0.05,App,348815.52,Valentina Fuentes,65.0,Puerto Montt,2024-11-19,Deportes,907166.0
+50956,1180,2024-02-17,Tecnología,5,237431.82,0.05,App,1127801.14,Pedro Martínez,57.0,Temuco,2022-03-27,Tecnología,1278579.0
+50957,1001,2024-11-23,Deportes,2,163921.21,0.15,Marketplace,278666.06,Diego Pérez,41.0,Puerto Montt,2023-08-28,Libros,650235.0
+50958,1009,2024-04-05,Tecnología,1,50270.34,0.15,Web,42729.79,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+50959,1033,2024-07-11,Deportes,2,141063.29,0.0,Marketplace,282126.58,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+50960,1204,2024-02-09,Libros,2,243646.44,0.1,App,438563.59,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+50961,1203,2024-10-28,Moda,2,176361.57,0.05,App,335086.98,Antonia Soto,28.0,Temuco,2023-08-22,Moda,459837.0
+50962,1213,2024-05-17,Libros,2,16433.56,0.1,Marketplace,29580.41,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+50963,1021,2024-07-29,Moda,5,177219.51,0.15,App,753182.92,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+50964,1031,2024-03-01,Tecnología,2,69490.86,0.15,Marketplace,118134.46,Diego Hernández,19.0,Antofagasta,2023-02-24,Belleza,1018565.0
+50965,1300,2024-06-20,Belleza,5,93006.18,0.0,App,465030.9,Antonia Silva,40.0,Santiago,2023-01-19,Moda,1039059.0
+50966,1226,2024-07-04,Tecnología,2,210704.19,0.0,Web,421408.38,Valentina Muñoz,36.0,Santiago,2023-05-08,Moda,721566.0
+50967,1131,2024-06-02,Tecnología,5,50322.66,0.1,App,226451.97,Pedro Hernández,60.0,Rancagua,2022-05-20,Belleza,915469.0
+50968,1051,2024-12-23,Belleza,4,198624.34,0.05,App,754772.49,Fernanda Silva,66.0,Rancagua,2023-11-01,Moda,655370.0
+50969,1033,2024-10-03,Belleza,2,106615.74,0.15,App,181246.76,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+50970,1137,2024-03-01,Deportes,4,139970.84,0.2,App,447906.69,Javiera Sepúlveda,35.0,Valparaíso ,2023-08-25,Moda,592799.0
+50971,1139,2024-12-29,Belleza,2,160377.1,0.1,Marketplace,288678.78,Sofía Contreras,52.0,Antofagasta,2022-08-09,Hogar,1156268.0
+50972,1106,2024-10-23,Deportes,3,230401.36,0.0,Web,691204.08,Sofía Morales,25.0,Antofagasta,2023-11-26,Belleza,825222.0
+50973,1204,2024-08-17,Hogar,5,27244.51,0.1,Marketplace,122600.3,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+50974,1050,2024-01-05,Belleza,2,198781.13,,Web,337927.92,Fernanda Pérez,45.0,,2024-08-28,Belleza,1330547.0
+50975,1170,2024-12-21,Moda,5,160188.07,0.0,App,800940.35,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+50976,1154,2024-08-16,Libros,2,233791.84,0.1,App,420825.31,Javiera Torres,59.0,Concepción,2024-03-29,Tecnología,613803.0
+50977,1045,2024-11-12,Moda,4,146944.8,0.0,Marketplace,587779.2,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+50978,1235,2024-04-06,Hogar,4,62432.26,0.15,App,212269.68,Daniela Díaz,23.0,La Serena,2022-09-24,Belleza,432644.0
+50979,1147,2024-08-19,Tecnología,5,98467.94,0.0,Web,492339.7,Tomás Silva,41.0,Puerto Montt,2024-07-10,Tecnología,579874.0
+50980,1057,2024-08-29,Libros,5,569745.85,0.1,App,4102170.08,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+50981,1242,2024-10-29,Tecnología,2,108547.67,0.05,Web,206240.57,Vicente González,29.0,Antofagasta,2023-11-20,Tecnología,728234.0
+50982,1133,2024-08-19,Tecnología,1,147283.4,0.05,App,139919.23,Pedro Martínez,52.0,Puerto Montt,2024-07-18,moda ,1345570.0
+50983,1222,2024-08-15,Moda,3,143738.89,0.0,Web,431216.67,Vicente Rojas,44.0,Temuco,2022-12-06,Hogar,1224321.0
+50984,1193,2024-09-21,Libros,1,120405.22,0.0,App,120405.22,Javiera Sepúlveda,27.0,Concepción,2023-10-22,Tecnología,500059.0
+50985,1093,2024-05-12,Deportes,4,28234.57,0.0,Web,112938.28,Juan Pérez,36.0,Concepción,2023-06-11,Moda,1178187.0
+50986,1177,2024-11-24,Deportes,5,67029.83,0.0,Web,335149.15,Matías Torres,25.0,Antofagasta,2023-11-20,Libros,907760.0
+50987,1082,2024-11-23,Moda,4,62288.92,0.1,App,224240.11,Camila López,55.0,La Serena,2023-01-10,Libros,591306.0
+50988,1286,2024-01-29,Moda,5,104098.01,0.15,Web,442416.54,Camila Soto,35.0,Antofagasta,2023-01-02,Deportes,1119277.0
+50989,1223,2024-11-22,Deportes,5,77928.85,0.2,App,311715.4,Sofía Rojas,66.0,Valparaíso,2024-05-03,Belleza,384170.0
+50990,1058,2024-03-05,Libros,1,131411.4,0.2,Web,105129.12,María Contreras,51.0,Temuco,2023-04-15,Moda,903377.0
+50991,1297,2024-04-28,Belleza,5,77526.02,0.0,App,387630.1,Diego Rojas,49.0,La Serena,2023-03-20,Belleza,1033414.0
+50992,1033,2024-09-10,Deportes,1,187681.75,0.0,Web,187681.75,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+50993,1023,2024-03-28,Deportes,2,72863.57,0.1,Marketplace,131154.43,Valentina Díaz,53.0,santiago,2023-05-06,Libros,382581.0
+50994,1173,2024-06-28,Libros,3,133344.75,0.15,Web,340029.11,Juan Rojas,67.0,Concepción,2024-06-14,Hogar,844909.0
+50995,1177,2024-09-23,Moda,3,217800.23,0.1,App,588060.62,Matías Torres,25.0,Antofagasta,2023-11-20,Libros,907760.0
+50996,1291,2024-12-01,Libros,4,72185.17,0.2,Marketplace,230992.54,Diego Fuentes,44.0,Santiago,2022-11-29,Moda,643662.0
+50997,1077,2024-05-18,Libros,3,95761.53,0.05,Marketplace,272920.36,Tomás Muñoz,25.0,Rancagua,2023-04-15,Moda,1128391.0
+50998,1268,2024-05-18,Moda,4,108213.23,0.05,App,411210.27,Juan Rodríguez,31.0,Rancagua,2024-10-27,Belleza,1419275.0
+50999,1190,2024-06-22,Moda,5,153295.99,0.0,Marketplace,766479.95,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+51000,1126,2024-04-02,Deportes,2,97565.2,0.2,App,156104.32,Antonia Muñoz,22.0,Antofagasta,2023-01-11,Belleza,764214.0
+51001,1165,2024-02-24,Belleza,5,93004.77,0.0,App,465023.85,Fernanda Silva,,,2023-03-16,Libros,896255.0
+51002,1242,2024-11-06,Hogar,1,11046.86,,Web,11046.86,Vicente González,29.0,Antofagasta,2023-11-20,Tecnología,728234.0
+51003,1277,2024-07-05,Libros,5,202353.65,0.2,Web,809414.6,Javiera Rodríguez,24.0,CONCEPCIÓN,2022-06-28,Belleza,649648.0
+51004,1121,2024-08-03,Moda,2,18710.11,0.0,Web,37420.22,Vicente Pérez,48.0,Santiago,2023-03-07,Tecnología,518143.0
+51005,1125,2024-05-22,Tecnología,4,156603.73,0.2,App,501131.94,Tomás Pérez,31.0,Santiago,2024-10-06,Tecnología,1312885.0
+51006,1152,2024-07-23,Tecnología,5,155480.06,0.2,App,621920.24,Valentina Rodríguez,28.0,Temuco,2023-10-15,Libros,798818.0
+51007,1043,2024-08-29,Moda,2,141994.72,0.2,Marketplace,227191.55,Juan López,53.0,Puerto Montt,2022-08-01,Hogar,828432.0
+51008,1260,2024-03-18,Deportes,3,8654.66,0.2,Marketplace,20771.18,Javiera González,20.0,Antofagasta,2022-10-19,Deportes,970295.0
+51009,1290,2024-02-13,Hogar,4,122155.15,0.05,App,464189.57,Juan Muñoz,61.0,Temuco,2024-01-09,Moda,1454444.0
+51010,1094,2024-06-05,Moda,4,132800.94,0.1,Marketplace,478083.38,Valentina Muñoz,58.0,La Serena,2024-07-04,Hogar,933999.0
+51011,1188,2024-03-22,Hogar,4,33263.57,0.15,App,113096.14,Catalina Sepúlveda,63.0,La Serena,2023-08-22,Libros,685234.0
+51012,1188,2024-11-22,Moda,5,155929.93,0.0,App,779649.65,Catalina Sepúlveda,63.0,La Serena,2023-08-22,Libros,685234.0
+51013,1229,2024-12-22,Belleza,1,81339.91,0.15,Marketplace,69138.92,María González,25.0,Concepción,2024-09-02,Belleza,794542.0
+51014,1043,2024-10-02,Moda,5,149646.13,0.0,App,748230.65,Juan López,53.0,Puerto Montt,2022-08-01,Hogar,828432.0
+51015,1076,2024-09-23,Moda,3,198012.97,0.05,Marketplace,564336.96,Camila López,44.0,Puerto Montt,2024-04-02,Deportes,721760.0
+51016,1015,2024-03-20,Tecnología,1,178787.57,0.05,Web,169848.19,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+51017,1025,2024-12-20,Tecnología,4,176973.91,,App,707895.64,Antonia Fuentes,18.0,Santiago,2023-05-09,Hogar,1100862.0
+51018,1081,2024-04-17,Tecnología,1,147929.81,0.2,App,118343.85,Camila Sepúlveda,27.0,Temuco,2024-07-31,Deportes,931968.0
+51019,1154,2024-08-26,Deportes,2,17298.8,0.1,Marketplace,31137.84,Javiera Torres,59.0,Concepción,2024-03-29,Tecnología,613803.0
+51020,1257,2024-12-01,Moda,2,170260.24,0.15,App,289442.41,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+51021,1180,2024-01-22,Libros,2,202047.33,0.0,App,404094.66,Pedro Martínez,57.0,Temuco,2022-03-27,Tecnología,1278579.0
+51022,1046,2024-06-09,Belleza,3,35730.96,0.05,Web,101833.24,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+51023,1203,2024-07-12,Tecnología,3,145477.96,0.2,Web,349147.1,Antonia Soto,28.0,Temuco,2023-08-22,Moda,459837.0
+51024,1015,2024-12-21,Belleza,2,23760.32,0.1,App,42768.58,María Soto,28.0,La Serena,2024-02-15,Belleza,675193.0
+51025,1157,2024-03-19,Tecnología,3,236592.4,0.0,Marketplace,709777.2,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+51026,1236,2024-06-04,Belleza,5,17032.2,0.0,App,85161.0,Juan Torres,69.0,Antofagasta,2022-08-19,Libros,465046.0
+51027,1208,2024-10-13,Belleza,1,166715.73,0.05,App,158379.94,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+51028,1088,2024-03-06,Libros,1,73224.17,0.0,Web,73224.17,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+51029,1167,2024-09-11,Moda,4,87882.21,0.05,Marketplace,333952.4,Benjamín Soto,,Concepción,2023-02-12,Hogar,1094302.0
+51030,1163,2024-04-14,Tecnología,2,195806.8,0.2,Marketplace,313290.88,Benjamín Sepúlveda,36.0,Puerto Montt,2024-06-21,Hogar,1112969.0
+51031,1030,2024-08-30,Tecnología,1,152913.94,0.0,App,152913.94,Daniela Rojas,62.0,Valparaíso,2024-05-17,Deportes,910769.0
+51032,1214,2024-03-08,Deportes,4,38105.27,0.1,Web,137178.97,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+51033,1191,2024-09-06,Hogar,5,70879.89,0.15,Marketplace,301239.53,Sofía Díaz,35.0,Antofagasta,2022-05-04,Moda,612677.0
+51034,1009,2024-08-30,Tecnología,2,189596.92,0.2,Marketplace,303355.07,Camila Hernández,19.0,Rancagua,2022-01-22,Hogar,1065205.0
+51035,1170,2024-04-24,Tecnología,1,114274.72,0.0,App,114274.72,Valentina Sepúlveda,53.0,Rancagua,2023-11-11,Tecnología,1009803.0
+51036,1144,2024-09-12,Tecnología,1,114531.5,0.2,Marketplace,91625.2,Juan Rojas,36.0,Valparaíso,2022-05-07,Tecnología,864615.0
+51037,1104,2024-04-22,Libros,3,18847.58,0.05,Web,53715.6,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+51038,1140,2024-09-11,Libros,1,5337.02,,Web,5070.17,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+51039,1111,2024-09-13,Moda,4,57694.44,0.0,App,230777.76,Javiera Fuentes,42.0,La Serena,2023-08-03,Belleza,1441947.0
+51040,1080,2024-11-16,Moda,1,72813.75,0.2,Web,58251.0,María Silva,29.0,Antofagasta,2023-03-13,Moda,815919.0
+51041,1213,2024-04-25,Hogar,5,108114.65,0.0,Marketplace,540573.25,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+51042,1208,2024-05-27,Moda,4,12588.88,0.1,App,45319.97,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+51043,1052,2024-10-31,Tecnología,5,209608.52,0.1,Web,943238.34,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+51044,1289,2024-09-06,Moda,1,210753.64,0.15,Marketplace,179140.59,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+51045,1172,2024-01-04,Hogar,5,14037.18,0.0,Web,70185.9,Valentina Fuentes,65.0,Puerto Montt,2024-11-19,Deportes,907166.0
+51046,1025,2024-12-07,Moda,1,99943.88,0.0,Marketplace,99943.88,Antonia Fuentes,18.0,Santiago,2023-05-09,Hogar,1100862.0
+51047,1069,2024-12-18,Hogar,4,238905.56,0.2,App,764497.79,Sofía Díaz,65.0,Puerto Montt,2024-02-16,Tecnología,1253198.0
+51048,1176,2024-10-24,Moda,1,58439.19,0.1,Web,52595.27,Pedro Soto,39.0,Concepción,2024-06-01,Hogar,566815.0
+51049,1257,2024-08-12,Deportes,4,147906.22,0.05,App,562043.64,Daniela Díaz,54.0,Santiago,2023-10-10,Belleza,532963.0
+51050,1169,2024-07-14,Belleza,4,21820.33,0.05,App,82917.25,Camila Martínez,46.0,La Serena,2023-08-06,Libros,1426539.0
+51051,1285,2024-08-29,Belleza,4,11367.02,0.05,Marketplace,43194.68,Pedro Díaz,63.0,Puerto Montt,2022-07-21,Deportes,547488.0
+51052,1247,2024-07-16,Deportes,2,179414.15,0.05,App,340886.88,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+51053,1104,2024-07-14,Moda,3,192608.91,0.05,App,548935.39,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+51054,1175,2024-07-06,Moda,1,137677.52,0.05,Web,130793.64,Benjamín González,37.0,La Serena,2024-10-11,Tecnología,400022.0
+51055,1174,2024-02-04,Belleza,3,162691.69,0.1,Web,439267.56,Valentina Díaz,49.0,Antofagasta,2022-10-09,Libros,623042.0
+51056,1162,2024-09-29,Deportes,2,54617.15,0.2,Web,87387.44,Tomás Pérez,68.0,Concepción,2023-10-13,Libros,719868.0
+51057,1140,2024-01-08,Belleza,4,22556.4,0.0,Web,90225.6,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+51058,1241,2024-02-25,Tecnología,5,70766.0,0.0,Web,353830.0,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+51059,1291,2024-08-01,Hogar,3,170294.13,0.15,Marketplace,434250.03,Diego Fuentes,44.0,Santiago,2022-11-29,Moda,643662.0
+51060,1274,2024-05-27,Deportes,1,155007.61,0.1,App,139506.85,Diego Hernández,24.0,Concepción,2022-02-15,Libros,646707.0
+51061,1251,2024-04-06,Deportes,1,19060.59,0.15,App,16201.5,María Rojas,30.0,Valparaíso,2023-01-01,Libros,993285.0
+51062,1227,2024-08-30,Belleza,2,202565.88,0.0,Web,405131.76,Antonia Silva,45.0,Santiago,2024-01-07,Libros,999154.0
+51063,1026,2024-06-11,Belleza,3,73005.03,0.15,Web,186162.83,Fernanda Silva,33.0,Rancagua,2024-12-10,Belleza,961675.0
+51064,1181,2024-02-27,Moda,3,248766.9,0.0,Web,746300.7,María González,29.0,Antofagasta,2023-08-13,Belleza,528347.0
+51065,1040,2024-03-16,Tecnología,4,219935.27,0.05,Marketplace,835754.03,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+51066,1213,2024-07-20,Libros,4,153825.69,0.1,App,553772.48,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+51067,1003,2024-04-24,Moda,1,71908.61,0.0,App,71908.61,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+51068,1276,2024-02-17,Moda,1,71949.31,0.2,App,57559.45,Daniela Silva,18.0,Santiago,2024-02-24,Deportes,1246470.0
+51069,1002,2024-08-07,Libros,3,207664.49,0.1,App,560694.12,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+51070,1033,2024-01-07,Libros,3,167481.02,0.2,Web,401954.45,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+51071,1284,2024-11-10,Moda,5,81994.89,,Marketplace,348478.28,Tomás Sepúlveda,27.0,Concepción,2023-03-22,Hogar,1218965.0
+51072,1187,2024-06-24,Libros,3,9847.86,0.0,Web,29543.58,Sofía Contreras,50.0,Santiago,2022-08-08,Tecnología,1085456.0
+51073,1003,2024-01-29,Hogar,2,211615.62,0.1,Web,380908.12,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+51074,1012,2024-02-18,Hogar,1,79612.14,0.0,App,79612.14,Tomás Pérez,31.0,Temuco,2024-11-03,Libros,300000.0
+51075,1271,2024-10-31,Deportes,2,5508.15,0.15,Web,9363.86,Vicente Rodríguez,24.0,Concepción,2022-08-17,Deportes,840419.0
+51076,1084,2024-02-09,Moda,2,96443.75,0.05,Marketplace,183243.12,Matías Torres,59.0,La Serena,2022-01-30,Deportes,751245.0
+51077,1045,2024-02-12,Belleza,5,44951.76,0.05,Marketplace,213520.86,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+51078,1241,2024-02-13,Deportes,3,67544.91,0.1,Web,182371.26,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+51079,1079,2024-06-03,Moda,4,68714.44,0.0,App,274857.76,Antonia Díaz,41.0,La Serena,2024-11-18,Libros,1195827.0
+51080,1040,2024-09-29,Hogar,1,228433.29,0.05,Marketplace,217011.63,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+51081,1024,2024-12-08,Tecnología,4,186414.49,0.15,Web,633809.27,María Díaz,50.0,Rancagua,2022-01-25,Deportes,935175.0
+51082,1045,2024-04-07,Libros,1,125040.92,0.05,Web,118788.87,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+51083,1115,2024-06-21,Belleza,4,174571.82,0.05,App,663372.92,Valentina Hernández,35.0,Temuco,2024-10-06,Hogar,819816.0
+51084,1160,2024-02-07,Belleza,1,122595.02,0.2,Marketplace,98076.02,Benjamín Hernández,26.0,Santiago,2024-07-10,Libros,962824.0
+51085,1119,2024-04-12,Tecnología,3,141231.96,0.0,Marketplace,423695.88,Fernanda Sepúlveda,39.0,Rancagua,2023-08-17,Hogar,845233.0
+51086,1231,2024-08-13,Moda,5,174274.56,0.1,Web,784235.52,Sofía Contreras,61.0,La Serena,2022-11-02,Belleza,1100487.0
+51087,1006,2024-09-06,Deportes,2,124530.36,0.0,Marketplace,249060.72,Benjamín Díaz,43.0,Concepción,2023-05-06,Deportes,300000.0
+51088,1034,2024-08-23,Tecnología,1,182015.32,0.2,Marketplace,145612.26,Pedro Contreras,62.0,Puerto Montt,2022-04-16,Hogar,512934.0
+51089,1289,2024-11-15,Hogar,3,152497.01,0.0,Web,457491.03,Vicente Rodríguez,43.0,Valparaíso,2024-11-20,Hogar,567161.0
+51090,1005,2024-04-14,Hogar,3,47360.13,0.05,Web,134976.37,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+51091,1213,2024-05-05,moda ,2,230735.3,0.15,Marketplace,392250.01,Juan Morales,64.0,Puerto Montt,2023-01-30,Hogar,641985.0
+51092,1240,2024-10-16,Belleza,5,47864.33,0.1,App,215389.48,Antonia Fuentes,60.0,Valparaíso,2022-09-24,Belleza,1130335.0
+51093,1114,2024-09-28,Belleza,5,136572.41,0.05,App,648718.95,Matías Hernández,23.0,Rancagua,2022-04-12,Moda,458147.0
+51094,1149,2024-02-28,Belleza,2,95537.32,0.05,Web,181520.91,Tomás Torres,26.0,Santiago,2024-05-07,Belleza,808063.0
+51095,1086,2024-11-18,Belleza,5,237917.35,0.05,Marketplace,1130107.41,María Pérez,49.0,La Serena,2024-06-06,Belleza,577437.0
+51096,1052,2024-01-09,Belleza,2,79234.33,0.1,Marketplace,142621.79,Valentina Contreras,20.0,Concepción,2024-08-21,Belleza,961551.0
+51097,1027,2024-10-02,Moda,4,181283.82,0.1,App,652621.75,Pedro Morales,25.0,CONCEPCIÓN,2024-08-21,Moda,618112.0
+51098,1217,2024-03-23,Hogar,5,127032.83,0.0,Web,635164.15,Pedro Rodríguez,39.0,Valparaíso,2022-09-27,Moda,489906.0
+51099,1136,2024-04-14,Moda,3,205976.76,0.1,Marketplace,556137.25,Daniela Muñoz,29.0,Puerto Montt,2024-04-22,Libros,781192.0
+51100,1219,2024-11-02,Libros,4,241883.34,0.05,App,919156.69,Vicente Soto,48.0,La Serena,2022-03-06,Libros,1129704.0
+51101,1272,2024-07-04,Hogar,4,57304.3,0.0,Marketplace,229217.2,Sofía Morales,37.0,Concepción,2024-02-05,Deportes,1060999.0
+51102,1190,2024-02-24,Tecnología,3,95298.94,0.2,App,228717.46,Sofía Silva,39.0,Valparaíso,2023-03-14,Tecnología,1199974.0
+51103,1045,2024-01-03,Deportes,3,47098.88,0.1,Web,127166.98,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+51104,1017,2024-04-29,Tecnología,2,91685.58,0.05,Web,174202.6,Camila Silva,,Santiago,2022-02-10,Belleza,1129934.0
+51105,1124,2024-12-02,Moda,2,59455.44,0.0,Marketplace,118910.88,Benjamín López,46.0,Rancagua,2023-11-07,Libros,661684.0
+51106,1029,2024-02-16,Moda,1,158447.21,0.1,Marketplace,142602.49,María Rojas,48.0,La Serena,2023-04-13,Moda,979401.0
+51107,1166,2024-06-14,Tecnología,2,102548.27,0.15,App,174332.06,Tomás Díaz,41.0,La Serena,2022-07-15,Hogar,861933.0
+51108,1144,2024-08-18,Libros,2,62059.23,0.05,Web,117912.54,Juan Rojas,36.0,Valparaíso,2022-05-07,Tecnología,864615.0
+51109,1100,2024-08-25,Moda,1,242083.44,0.05,Web,229979.27,Benjamín González,33.0,Valparaíso,2024-09-24,Moda,676564.0
+51110,1038,2024-04-15,moda ,5,172741.33,0.1,Marketplace,777335.98,Camila Fuentes,66.0,Santiago,2023-09-20,Hogar,780254.0
+51111,1125,2024-02-17,Belleza,3,217493.16,0.0,Web,652479.48,Tomás Pérez,31.0,Santiago,2024-10-06,Tecnología,1312885.0
+51112,1264,2024-09-23,Hogar,1,240479.57,0.0,Marketplace,240479.57,Benjamín Pérez,23.0,Valparaíso,2023-05-21,Libros,438078.0
+51113,1281,2024-01-21,Tecnología,3,45107.38,0.15,App,115023.82,Sofía Morales,35.0,Valparaíso,2022-11-17,Libros,972902.0
+51114,1252,2024-04-09,Deportes,2,90890.57,0.1,Web,163603.03,Matías Díaz,69.0,Temuco,2024-02-24,Libros,1039644.0
+51115,1003,2024-10-31,Libros,3,245623.42,0.05,App,700026.75,Sofía Sepúlveda,59.0,Antofagasta,2024-01-22,Belleza,1255397.0
+51116,1127,2024-09-04,Tecnología,4,82263.02,0.05,Marketplace,312599.48,Juan Martínez,23.0,La Serena,2024-06-06,Hogar,1106663.0
+51117,1098,2024-08-17,Moda,1,234949.98,0.0,Marketplace,234949.98,Juan Hernández,19.0,Concepción,2022-08-11,Tecnología,978514.0
+51118,1275,2024-07-08,Moda,3,101921.36,0.0,Marketplace,305764.08,Valentina Rodríguez,46.0,Santiago,2023-07-26,Moda,1010844.0
+51119,1157,2024-04-28,Hogar,2,156150.09,0.1,App,281070.16,Camila Soto,18.0,Puerto Montt,2022-01-04,Deportes,835644.0
+51120,1075,2024-08-31,Libros,1,58558.26,0.05,Web,55630.35,Daniela Soto,29.0,Antofagasta,2024-02-10,Deportes,930622.0
+51121,1282,2024-07-23,Deportes,4,32849.03,0.0,App,131396.12,María López,60.0,Valparaíso,2022-11-27,Libros,605233.0
+51122,1071,2024-02-23,Deportes,3,236020.02,0.1,Marketplace,637254.05,Daniela Rodríguez,34.0,Valparaíso,2022-04-23,Deportes,851911.0
+51123,1243,2024-11-24,Belleza,3,46787.0,0.0,Web,140361.0,Pedro Torres,20.0,,2023-01-30,Libros,732359.0
+51124,1105,2024-08-27,Libros,3,239818.8,0.1,Web,647510.76,Diego Torres,36.0,Concepción,2024-03-19,Tecnología,335011.0
+51125,1164,2024-03-20,Belleza,5,184181.0,0.15,Web,782769.25,Tomás Sepúlveda,69.0,Santiago,2023-08-31,Deportes,578384.0
+51126,1023,2024-03-07,Deportes,1,524992.9,0.05,Marketplace,797989.2,Valentina Díaz,53.0,santiago,2023-05-06,Libros,382581.0
+51127,1161,2024-09-07,Moda,4,201585.73,0.0,Marketplace,806342.92,Vicente Torres,45.0,Antofagasta,2023-01-20,Moda,1276579.0
+51128,1198,2024-09-05,Libros,3,157179.12,0.0,Marketplace,471537.36,Vicente Soto,51.0,Antofagasta,2023-01-30,Deportes,756587.0
+51129,1096,2024-08-13,Hogar,3,32542.25,0.05,Marketplace,92745.41,Antonia Sepúlveda,65.0,Antofagasta,2023-09-25,Tecnología,1274773.0
+51130,1011,2024-02-28,Hogar,3,236492.1,0.0,Marketplace,709476.3,Pedro Contreras,29.0,Valparaíso,2023-06-08,Deportes,646982.0
+51131,1182,2024-04-26,Tecnología,3,21283.38,0.05,Marketplace,60657.63,Camila Fuentes,20.0,Valparaíso,2023-01-21,Belleza,920565.0
+51132,1088,2024-11-19,Tecnología,5,121239.69,0.0,App,606198.45,Daniela López,66.0,Rancagua,2023-07-07,HOGAR,651774.0
+51133,1214,2024-12-22,Libros,1,245987.54,0.0,Marketplace,245987.54,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+51134,1147,2024-07-29,Deportes,4,46423.99,0.0,App,185695.96,Tomás Silva,41.0,Puerto Montt,2024-07-10,Tecnología,579874.0
+51135,1247,2024-05-15,Belleza,4,44123.2,0.1,App,158843.52,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+51136,1182,2024-07-27,Deportes,5,215953.15,0.15,Web,917800.89,Camila Fuentes,20.0,Valparaíso,2023-01-21,Belleza,920565.0
+51137,1005,2024-08-02,Moda,2,247266.32,0.15,Web,420352.74,Camila Hernández,24.0,La Serena,2023-07-05,Belleza,696195.0
+51138,1033,2024-10-08,Belleza,2,159481.07,0.0,Marketplace,318962.14,Sofía Fuentes,58.0,Antofagasta,2023-10-06,Belleza,846516.0
+51139,1258,2024-04-11,Hogar,2,128710.04,0.05,Marketplace,244549.08,Juan Soto,38.0,Rancagua,2024-11-16,Libros,909827.0
+51140,1230,2024-03-26,Deportes,4,111609.59,0.0,App,446438.36,Matías González,36.0,Rancagua,2024-12-10,Moda,842379.0
+51141,1207,2024-01-25,Libros,2,168553.29,0.15,App,286540.59,Valentina Torres,19.0,Valparaíso,2022-09-19,Belleza,961896.0
+51142,1104,2024-01-13,Moda,5,199947.89,0.0,Marketplace,999739.45,Juan Rodríguez,45.0,Santiago,2023-08-10,Hogar,680194.0
+51143,1204,2024-03-24,Moda,3,122778.05,0.05,App,349917.44,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+51144,1247,2024-09-28,Belleza,1,73997.3,0.1,App,66597.57,Camila Rodríguez,66.0,Valparaíso ,2024-08-14,Libros,1287879.0
+51145,1248,2024-02-22,Libros,2,223426.21,0.0,Marketplace,446852.42,Sofía Díaz,40.0,Concepción,2023-06-01,Tecnología,847868.0
+51146,1206,2024-02-23,Moda,4,68898.81,0.15,Web,234255.95,Pedro Torres,26.0,Santiago,2024-11-23,Tecnología,683208.0
+51147,1177,2024-07-12,Deportes,1,66840.52,0.0,App,66840.52,Matías Torres,25.0,Antofagasta,2023-11-20,Libros,907760.0
+51148,1186,2024-09-23,Belleza,2,88177.75,0.1,Marketplace,158719.95,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+51149,1243,2024-04-12,Hogar,5,113697.55,0.0,Marketplace,568487.75,Pedro Torres,20.0,,2023-01-30,Libros,732359.0
+51150,1280,2024-10-22,Deportes,3,36467.0,0.2,App,87520.8,Diego Hernández,46.0,Santiago,2023-05-08,Hogar,999465.0
+51151,1041,2024-08-01,Deportes,2,95445.06,0.15,App,162256.6,Sofía Martínez,66.0,Temuco,2022-05-04,Tecnología,664374.0
+51152,1002,2024-07-31,Deportes,5,186803.17,0.0,Web,934015.85,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+51153,1210,2024-01-03,Moda,5,247984.06,0.2,App,991936.24,Catalina Muñoz,20.0,Rancagua,2023-05-28,Moda,541942.0
+51154,1155,2024-03-13,Tecnología,3,155662.53,0.05,Marketplace,443638.21,Javiera Fuentes,57.0,Temuco,2024-09-08,Tecnología,708074.0
+51155,1221,2024-10-26,Tecnología,4,34347.9,0.1,App,123652.44,Diego Sepúlveda,24.0,Santiago,2024-06-05,Hogar,822185.0
+51156,1294,2024-09-20,Hogar,4,171564.69,0.0,Marketplace,686258.76,Diego Martínez,,Santiago,2024-11-13,Libros,855625.0
+51157,1149,2024-08-28,Libros,2,5486.36,0.05,App,10424.08,Tomás Torres,26.0,Santiago,2024-05-07,Belleza,808063.0
+51158,1287,2024-04-16,Tecnología,4,99901.61,0.15,Marketplace,339665.47,María González,63.0,,2023-04-13,Moda,762715.0
+51159,1266,2024-07-28,Belleza,1,236776.64,0.0,Marketplace,236776.64,Fernanda Torres,,Santiago,2024-10-10,Deportes,960352.0
+51160,1284,2024-09-19,Libros,5,76404.37,0.15,Web,324718.57,Tomás Sepúlveda,27.0,Concepción,2023-03-22,Hogar,1218965.0
+51161,1262,2024-06-03,Hogar,2,41840.08,0.0,Web,83680.16,María Silva,36.0,Valparaíso,2024-06-10,Belleza,456539.0
+51162,1002,2024-03-10,Moda,2,32531.92,0.0,Marketplace,65063.84,Juan Contreras,33.0,Santiago,2024-04-09,Belleza,850503.0
+51163,1255,2024-06-05,Moda,5,16205.2,0.0,App,81026.0,Matías Torres,26.0,Puerto Montt,2023-11-09,Belleza,542666.0
+51164,1069,2024-01-25,Hogar,3,249418.2,0.0,App,748254.6,Sofía Díaz,65.0,Puerto Montt,2024-02-16,Tecnología,1253198.0
+51165,1184,2024-03-13,Deportes,5,196303.27,0.0,Web,981516.35,Fernanda Rojas,47.0,La Serena,2023-07-01,Moda,754003.0
+51166,1047,2024-11-27,Belleza,4,155924.01,0.15,Web,530141.63,Catalina Muñoz,57.0,Concepción,2024-01-09,Moda,835300.0
+51167,1036,2024-05-18,moda ,3,181069.28,0.05,App,516047.45,Fernanda Soto,25.0,Temuco,2023-07-15,Moda,947913.0
+51168,1098,2024-10-12,Libros,5,54236.81,0.05,Web,257624.85,Juan Hernández,19.0,Concepción,2022-08-11,Tecnología,978514.0
+51169,1021,2024-08-08,Hogar,4,118586.8,0.05,Web,450629.84,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+51170,1065,2024-01-01,Moda,1,215998.08,0.15,Marketplace,183598.37,Javiera Díaz,58.0,Santiago,2024-03-08,Tecnología,1396378.0
+51171,1265,2024-12-08,Belleza,1,6692.99,0.0,Marketplace,6692.99,Tomás González,64.0,Temuco,2023-06-15,Hogar,684846.0
+51172,1057,2024-06-17,Libros,3,17114.47,0.05,Web,48776.24,Tomás Hernández,40.0,La Serena,2023-10-06,Tecnología,569729.0
+51173,1207,2024-08-02,Tecnología,3,207212.43,0.1,App,559473.56,Valentina Torres,19.0,Valparaíso,2022-09-19,Belleza,961896.0
+51174,1017,2024-07-16,Belleza,3,54538.0,0.05,Web,155433.3,Camila Silva,,Santiago,2022-02-10,Belleza,1129934.0
+51175,1176,2024-07-26,Belleza,1,178028.64,0.05,Marketplace,169127.21,Pedro Soto,39.0,Concepción,2024-06-01,Hogar,566815.0
+51176,1241,2024-11-26,Belleza,1,146510.11,0.15,Marketplace,124533.59,Antonia Silva,62.0,Concepción,2022-02-23,Tecnología,738724.0
+51177,1061,2024-04-24,Tecnología,2,120931.82,0.1,App,217677.28,María Sepúlveda,42.0,Antofagasta,2024-08-16,Belleza,400869.0
+51178,1256,2024-03-08,Libros,5,105850.06,0.0,Marketplace,529250.3,Tomás López,49.0,Temuco,2023-04-14,Hogar,799798.0
+51179,1196,2024-10-30,Hogar,5,153262.76,0.15,App,651366.73,Valentina Muñoz,47.0,Rancagua,2023-09-28,Libros,1011346.0
+51180,1281,2024-02-17,Moda,4,150489.46,0.0,App,601957.84,Sofía Morales,35.0,Valparaíso,2022-11-17,Libros,972902.0
+51181,1246,2024-12-20,Moda,5,216406.27,0.05,Marketplace,1027929.78,Valentina Muñoz,62.0,La Serena,2024-03-02,Libros,854212.0
+51182,1055,2024-05-10,Moda,2,217532.82,0.1,App,391559.08,Antonia Contreras,66.0,Concepción,2023-02-15,Deportes,1143175.0
+51183,1209,2024-12-25,Moda,2,75081.24,0.0,Web,150162.48,María Fuentes,62.0,Antofagasta,2022-06-29,Hogar,1064666.0
+51184,1136,2024-12-29,Belleza,2,88009.27,0.2,Marketplace,140814.83,Daniela Muñoz,29.0,Puerto Montt,2024-04-22,Libros,781192.0
+51185,1046,2024-09-19,Deportes,1,111342.84,0.0,Web,111342.84,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+51186,1076,2024-03-09,Moda,5,171409.67,0.05,Web,814195.93,Camila López,44.0,Puerto Montt,2024-04-02,Deportes,721760.0
+51187,1063,2024-07-12,Hogar,3,40883.17,0.1,Marketplace,110384.56,Diego Rodríguez,19.0,Santiago,2024-09-28,Moda,851974.0
+51188,1046,2024-10-02,Libros,5,75488.38,0.15,App,320825.62,Sofía Fuentes,59.0,Temuco,2022-05-10,Belleza,907150.0
+51189,1186,2024-02-08,Moda,5,241973.13,0.2,Marketplace,967892.52,Antonia Rodríguez,22.0,Temuco,2023-10-21,Moda,1144053.0
+51190,1045,2024-06-16,Hogar,2,54983.51,0.05,Marketplace,104468.67,María Sepúlveda,65.0,La Serena,2022-04-23,Belleza,1013193.0
+51191,1020,2024-04-14,Deportes,1,5153.13,0.05,App,4895.47,María Muñoz,29.0,Puerto Montt,2023-11-22,Belleza,1407094.0
+51192,1214,2024-12-14,Belleza,3,67168.28,0.1,Marketplace,181354.36,Tomás Díaz,61.0,Concepción,2023-05-23,Libros,976952.0
+51193,1280,2024-07-30,Libros,4,104492.88,0.0,Marketplace,417971.52,Diego Hernández,46.0,Santiago,2023-05-08,Hogar,999465.0
+51194,1283,2024-10-17,Belleza,4,180186.9,0.15,App,612635.46,Fernanda Martínez,59.0,Valparaíso,2023-02-22,Libros,820956.0
+51195,1049,2024-06-13,Tecnología,1,157909.19,0.0,Web,157909.19,Daniela Hernández,42.0,Valparaíso,2024-04-15,moda ,981227.0
+51196,1040,2024-02-05,Belleza,5,89229.18,0.1,Marketplace,401531.31,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+51197,1032,2024-07-12,Deportes,3,186178.49,0.0,Marketplace,558535.47,Diego Hernández,61.0,Concepción,2022-01-16,Hogar,979216.0
+51198,1208,2024-10-28,Deportes,2,234262.7,0.1,Web,421672.86,Catalina Hernández,69.0,Concepción,2022-01-15,Libros,963387.0
+51199,1204,2024-12-29,Moda,4,83207.41,0.0,App,332829.64,Antonia Torres,61.0,Valparaíso,2023-04-28,Deportes,778537.0
+51200,1150,2024-02-13,Deportes,3,22045.22,0.0,Web,66135.66,María Díaz,36.0,Concepción,2022-04-16,Libros,1326116.0
+50298,1004,2024-11-02,Belleza,2,109903.26,0.2,App,175845.22,Antonia López,44.0,Antofagasta,2023-01-26,Deportes,765369.0
+50079,1064,2024-08-05,Moda,4,88310.09,0.05,Marketplace,335578.34,Pedro Contreras,60.0,Antofagasta,2023-08-27,Deportes,675492.0
+50634,1021,2024-08-26,Libros,5,174197.97,0.05,Web,827440.36,Vicente López,50.0,Santiago,2024-10-20,Libros,606402.0
+50745,1078,2024-08-30,Belleza,1,112264.79,0.0,Marketplace,112264.79,Camila Hernández,,Concepción,2024-03-17,Moda,368408.0
+50357,1106,2024-06-19,Libros,3,226254.59,0.05,Web,644825.58,Sofía Morales,25.0,Antofagasta,2023-11-26,Belleza,825222.0
+50812,1140,2024-12-29,Moda,4,228518.45,0.0,Web,914073.8,María Silva,60.0,Puerto Montt,2022-06-30,Belleza,714512.0
+50369,1040,2024-08-03,Tecnología,3,42052.09,,Web,113540.64,María Rojas,21.0,Concepción,2023-10-14,Moda,1162066.0
+50447,1253,2024-03-11,Deportes,1,244272.2,0.15,App,207631.37,Tomás Morales,59.0,Santiago,2024-01-19,Moda,793757.0
+51075,1271,2024-10-31,Deportes,2,5508.15,0.15,Web,9363.86,Vicente Rodríguez,24.0,Concepción,2022-08-17,Deportes,840419.0
+50781,1287,2024-06-19,Tecnología,5,91229.16,0.2,Marketplace,364916.64,María González,63.0,,2023-04-13,Moda,762715.0
+50276,1099,2024-08-17,Hogar,5,158189.9,0.0,App,790949.5,Catalina González,57.0,Puerto Montt,2022-08-13,Deportes,862764.0
+50101,1037,2024-08-07,Belleza,3,219584.0,0.05,Web,625814.4,Javiera Sepúlveda,64.0,Concepción,2022-04-08,Deportes,1344679.0
