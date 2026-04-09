@@ -42,5 +42,13 @@ Desarrollar un flujo de trabajo integral para obtener, limpiar, transformar y es
 - Corrección de inconsistencias, duplicados y valores atípicos
 - Generación de variables derivadas y métricas agregadas
 
+## Cómo ejecutar el proyecto
+
+1. Clonar el repositorio.
+2. Crear y activar un entorno virtual.
+3. Instalar las dependencias requeridas: `numpy`, `pandas`, `openpyxl` y `lxml`.
+4. Abrir el notebook `notebooks/proyecto_modulo_4.ipynb`.
+5. Ejecutar las celdas en orden para reproducir el flujo completo de preparación de datos.
+
 ## Autor
 Juan Carlos Castro Encina
